@@ -1,0 +1,1 @@
+--This provides wrappers to prevent themes that used functions that are now unavailable from crashing.

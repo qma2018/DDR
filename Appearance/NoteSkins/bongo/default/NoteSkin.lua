@@ -1,0 +1,110 @@
+local Nskin = {}
+
+--Defining on which direction the other directions should be bassed on
+--This will let us use less files which is quite handy to keep the noteskin directory nice
+--Do remember this will Redirect all the files of that Direction to the Direction its pointed to
+--If you only want some files to be redirected take a look at the "custom hold/roll per direction"
+Nskin.ButtonRedir =
+{
+	Main = "Main"
+}
+
+-- Defined the parts to be rotated at which degree
+Nskin.Rotate =
+{
+}
+
+
+--Define elements that need to be redirected
+Nskin.ElementRedir =
+{
+	["Hold Head Active"] = "Tap Note",
+	["Hold Clap Active"] = "Tap Clap",
+	["Hold Right Active"] = "Tap Right",
+	["Hold Center Active"] = "Tap Center",
+	["Tap Explosion Dim"] = "Tap Explosion Bright",
+	["Roll Explosion"] = "Tap Explosion Bright",
+	["Hold Explosion"] = "Tap Explosion Bright"
+}
+
+-- Parts of noteskins which we want to rotate
+Nskin.PartsToRotate =
+{
+	["Receptor"] = true,
+	["Tap Explosion Bright"] = true,
+	["Tap Explosion Dim"] = true,
+	["Tap Note"] = true,
+	["Tap Fake"] = true,
+	["Tap Addition"] = true,
+	["Hold Explosion"] = true,
+	["Hold Head Active"] = true,
+	["Hold Head Inactive"] = true,
+	["Roll Explosion"] = true,
+	["Roll Head Active"] = true,
+	["Roll Head Inactive"] = true,
+}
+
+-- Parts that should be Redirected to _Blank.png
+-- you can add/remove stuff if you want
+Nskin.Blank =
+{
+	["Receptor"] = true,
+	["Tap Explosion Bright"] = true,
+	["Tap Explosion Dim"] = true,
+	["Roll Explosion"] = true,
+	["Hold Explosion"] = true,
+	["Hold Topcap Active"] = true,
+	["Hold Topcap Inactive"] = true,
+	["Roll Topcap Active"] = true,
+	["Roll Topcap Inactive"] = true,
+	["Hold Tail Active"] = true,
+	["Hold Tail Inactive"] = true,
+	["Roll Tail Active"] = true,
+	["Roll Tail Inactive"] = true,
+}
+
+--Between here we usally put all the commands the noteskin.lua needs to do, some are extern in other files
+--If you need help with lua go to https://josevarela.xyz/Luadoc/Lua.xml there are a bunch of codes there
+--Also check out common it has a load of lua codes in files there
+--Just play a bit with lua its not that hard if you understand coding
+--But SM can be an ass in some cases, and some codes jut wont work if you dont have the noteskin on FallbackNoteSkin=common in the metric.ini 
+function Nskin.Load()
+	local sButton = Var "Button"
+	local sElement = Var "Element"
+	
+	sElement = string.gsub(sElement, "Roll", "Hold")
+	sElement = string.gsub(sElement, "Inactive", "Active")
+	
+	--Setting global button
+	local Button = Nskin.ButtonRedir[sButton] or sButton
+				
+	--Setting global element
+	local Element = Nskin.ElementRedir[sElement] or sElement
+				
+	--Returning first part of the code, The redirects, Second part is for commands
+	local t = LoadActor(NOTESKIN:GetPath(Button,Element));
+		
+	--Set blank redirects
+	if Nskin.Blank[sElement] then
+		t = Def.Actor {};
+		--Check if element is sprite only
+		if Var "SpriteOnly" then
+			t = LoadActor(NOTESKIN:GetPath("","_blank"))
+		end
+	end
+	
+	if Nskin.PartsToRotate[sElement] then
+		t.BaseRotationZ = Nskin.Rotate[sButton] or nil
+	end
+	
+	--Explosion should not be rotated, It calls other actors
+	if sElement == "Explosion" then
+		t.BaseRotationZ = nil;
+	end
+	
+	return t
+end
+-- >
+
+-- dont forget to return cuz else it wont work ;>
+return Nskin

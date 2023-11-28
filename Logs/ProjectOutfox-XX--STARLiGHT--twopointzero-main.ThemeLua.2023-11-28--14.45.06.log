@@ -1,0 +1,179 @@
+created log at: Tue Nov 28 14:45:06 2023
+[Time]		[Level]		[Thread]	[Log]
+14:45:12	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:45:14	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:45:15	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:45:15	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:45:15	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements decorations.lua, type FileType_Lua
+14:45:15	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:45:15	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Footer/default.lua, type FileType_Lua
+14:45:15	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:45:15	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:45:15	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:45:20	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:45:20	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements decorations.lua, type FileType_Lua
+14:45:20	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:45:22	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:45:23	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:45:23	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements decorations.lua, type FileType_Lua
+14:45:23	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:45:23	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Footer/default.lua, type FileType_Lua
+14:45:23	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:45:23	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:45:25	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:45:26	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:45:28	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:45:28	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:45:28	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements decorations.lua, type FileType_Lua
+14:45:28	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:45:28	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Footer/default.lua, type FileType_Lua
+14:45:28	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:45:32	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:45:33	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:45:34	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:45:34	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements StageDisplay.lua, type FileType_Lua
+14:45:36	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:45:36	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:45:37	TRACE		Main Thread	setupmusicstagemods
+14:45:45	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:45:45	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:45:45	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements decorations.lua, type FileType_Lua
+14:45:45	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:45:45	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Footer/default.lua, type FileType_Lua
+14:45:45	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:45:45	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:48:22	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:48:22	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements decorations.lua, type FileType_Lua
+14:48:22	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:48:25	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:48:25	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:48:25	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements decorations.lua, type FileType_Lua
+14:48:25	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:48:25	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Footer/default.lua, type FileType_Lua
+14:48:25	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:48:25	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:48:27	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:48:27	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:48:30	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:48:30	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:48:30	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements decorations.lua, type FileType_Lua
+14:48:30	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:48:30	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Footer/default.lua, type FileType_Lua
+14:48:30	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:48:36	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:48:37	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:48:37	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:48:37	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements StageDisplay.lua, type FileType_Lua
+14:48:38	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:48:38	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:48:39	TRACE		Main Thread	setupmusicstagemods
+14:48:53	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:48:53	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:48:53	TRACE		Main Thread	ResolveTable(FlashyCombo): pref not found
+14:48:53	WARNING		Main Thread	Get: Unknown preference "FlashyCombo"
+14:48:54	TRACE		Main Thread	[FileUtils] Error reading Save/UserPrefs/_fallback/UserPrefAutoSetStyle.cfg: No such file or directory
+14:48:54	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:48:54	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/Common fallback background.png, type FileType_Bitmap
+14:49:18	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:49:19	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements StageDisplay.lua, type FileType_Lua
+14:49:20	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:49:20	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:49:20	TRACE		Main Thread	setupmusicstagemods
+14:49:26	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:49:27	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:49:27	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements decorations.lua, type FileType_Lua
+14:49:27	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:49:27	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Footer/default.lua, type FileType_Lua
+14:49:27	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:49:27	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:49:50	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:49:50	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements decorations.lua, type FileType_Lua
+14:49:50	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:49:53	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:49:53	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:49:53	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements decorations.lua, type FileType_Lua
+14:49:53	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:49:53	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Footer/default.lua, type FileType_Lua
+14:49:53	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:49:54	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:00	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:00	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:50:03	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:03	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:03	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements decorations.lua, type FileType_Lua
+14:50:03	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:50:03	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Footer/default.lua, type FileType_Lua
+14:50:03	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:50:08	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:09	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:09	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:09	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements StageDisplay.lua, type FileType_Lua
+14:50:10	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:50:10	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:50:11	TRACE		Main Thread	setupmusicstagemods
+14:50:21	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:21	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:21	TRACE		Main Thread	ResolveTable(FlashyCombo): pref not found
+14:50:21	WARNING		Main Thread	Get: Unknown preference "FlashyCombo"
+14:50:21	TRACE		Main Thread	[FileUtils] Error reading Save/UserPrefs/_fallback/UserPrefAutoSetStyle.cfg: No such file or directory
+14:50:22	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:22	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/Common fallback background.png, type FileType_Bitmap
+14:50:32	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:32	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements StageDisplay.lua, type FileType_Lua
+14:50:33	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:50:33	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:50:33	TRACE		Main Thread	setupmusicstagemods
+14:50:34	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:34	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:34	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements decorations.lua, type FileType_Lua
+14:50:34	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:50:34	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Footer/default.lua, type FileType_Lua
+14:50:34	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:50:34	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:49	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:49	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements decorations.lua, type FileType_Lua
+14:50:49	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:50:52	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:52	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:52	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements decorations.lua, type FileType_Lua
+14:50:52	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:50:52	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Footer/default.lua, type FileType_Lua
+14:50:52	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:50:52	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:55	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:55	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:50:58	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:58	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:50:58	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements decorations.lua, type FileType_Lua
+14:50:58	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:50:58	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Footer/default.lua, type FileType_Lua
+14:50:58	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:51:02	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:51:03	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:51:04	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:51:04	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements StageDisplay.lua, type FileType_Lua
+14:51:05	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:51:05	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:51:06	TRACE		Main Thread	setupmusicstagemods
+14:51:15	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:51:15	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:51:15	TRACE		Main Thread	ResolveTable(FlashyCombo): pref not found
+14:51:15	WARNING		Main Thread	Get: Unknown preference "FlashyCombo"
+14:51:15	TRACE		Main Thread	[FileUtils] Error reading Save/UserPrefs/_fallback/UserPrefAutoSetStyle.cfg: No such file or directory
+14:51:15	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:51:15	TRACE		Main Thread	Loading /Songs/Ying Special/Money/Money.mov, type FileType_Movie
+14:51:15	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/Common fallback background.png, type FileType_Bitmap
+14:52:00	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:52:00	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements StageDisplay.lua, type FileType_Lua
+14:52:01	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Header/default.lua, type FileType_Lua
+14:52:01	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/ScreenWithMenuElements Help.lua, type FileType_Lua
+14:52:01	TRACE		Main Thread	setupmusicstagemods
+14:52:21	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:52:21	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:52:21	TRACE		Main Thread	ResolveTable(FlashyCombo): pref not found
+14:52:21	WARNING		Main Thread	Get: Unknown preference "FlashyCombo"
+14:52:21	TRACE		Main Thread	[FileUtils] Error reading Save/UserPrefs/_fallback/UserPrefAutoSetStyle.cfg: No such file or directory
+14:52:21	WARNING		Main Thread	[Options.ReturnCurrentTiming] Current Timing 'Original' is not present on TimingWindows, using 'DDR Modern' instead.
+14:52:21	TRACE		Main Thread	Loading /Songs/Ying Special/Money/Money.mov, type FileType_Movie
+14:52:21	TRACE		Main Thread	Loading /Appearance/Themes/XX--STARLiGHT--twopointzero-main/Graphics/Common fallback background.png, type FileType_Bitmap
+FileSink shutdown at: 14:52:45 186345

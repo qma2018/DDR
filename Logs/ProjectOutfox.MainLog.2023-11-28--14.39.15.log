@@ -1,0 +1,1259 @@
+created log at: Tue Nov 28 14:39:15 2023
+[Time]		[Level]		[Thread]	[Log]
+14:39:15	TRACE		Main Thread	 
+14:39:15	TRACE		Main Thread	Reading 'Data/Defaults.ini' failed: No such file or directory
+14:39:15	TRACE		Main Thread	Reading 'Data/Static.ini' failed: No such file or directory
+14:39:15	TRACE		Main Thread	Reading 'Data/Static.ini' failed: No such file or directory
+14:39:15	TRACE		Main Thread	Outfox Engine: SDL Subsystem Initialised.
+14:39:15	TRACE		Main Thread	OutFox Engine: Initializing Discord SDK
+14:39:15	TRACE		Main Thread	OutFox Engine: Core Creation Returned: Succeeded 0
+14:39:15	TRACE		Main Thread	Font Loaded
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: default (Appearance/NoteSkins/dance/default/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/default/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: defaultsm5 (Appearance/NoteSkins/dance/defaultsm5/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/defaultsm5/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: delta (Appearance/NoteSkins/dance/delta/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/delta/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: delta2019 (Appearance/NoteSkins/dance/delta2019/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/delta2019/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-note (Appearance/NoteSkins/dance/midi-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/midi-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-note-3d (Appearance/NoteSkins/dance/midi-note-3d/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/midi-note-3d/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-routine-p1 (Appearance/NoteSkins/dance/midi-routine-p1/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-note (Appearance/NoteSkins/dance/midi-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/midi-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-routine-p2 (Appearance/NoteSkins/dance/midi-routine-p2/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-routine-p1 (Appearance/NoteSkins/dance/midi-routine-p1/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-note (Appearance/NoteSkins/dance/midi-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/midi-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-solo (Appearance/NoteSkins/dance/midi-solo/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-note (Appearance/NoteSkins/dance/midi-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/midi-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-vivid (Appearance/NoteSkins/dance/midi-vivid/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-note (Appearance/NoteSkins/dance/midi-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/midi-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-vivid-3d (Appearance/NoteSkins/dance/midi-vivid-3d/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-note (Appearance/NoteSkins/dance/midi-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/midi-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-color-holds (Appearance/NoteSkins/dance/outfox-color-holds/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note (Appearance/NoteSkins/dance/outfox-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/outfox-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/outfox-color-holds/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-itg (Appearance/NoteSkins/dance/outfox-itg/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note (Appearance/NoteSkins/dance/outfox-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/outfox-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-itg-3d (Appearance/NoteSkins/dance/outfox-itg-3d/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note-3D (Appearance/NoteSkins/dance/outfox-note-3D/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note (Appearance/NoteSkins/dance/outfox-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/outfox-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-itg-3d+ (Appearance/NoteSkins/dance/outfox-itg-3d+/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note-3D+ (Appearance/NoteSkins/dance/outfox-note-3D+/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note (Appearance/NoteSkins/dance/outfox-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/outfox-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note (Appearance/NoteSkins/dance/outfox-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/outfox-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note-3d (Appearance/NoteSkins/dance/outfox-note-3d/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note (Appearance/NoteSkins/dance/outfox-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/outfox-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note-3d+ (Appearance/NoteSkins/dance/outfox-note-3d+/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note (Appearance/NoteSkins/dance/outfox-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/outfox-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: paw (Appearance/NoteSkins/dance/paw/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/paw/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: retro (Appearance/NoteSkins/dance/retro/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: default (Appearance/NoteSkins/dance/default/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/default/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/retro/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: retrobar (Appearance/NoteSkins/dance/retrobar/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: default (Appearance/NoteSkins/dance/default/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/default/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/retrobar/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: retrobar-splithand_whiteblue (Appearance/NoteSkins/dance/retrobar-splithand_whiteblue/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: default (Appearance/NoteSkins/dance/default/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/default/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/retrobar-splithand_whiteblue/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: broadhead (Appearance/NoteSkins/global/broadhead/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/broadhead/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: broadhead-3d (Appearance/NoteSkins/global/broadhead-3d/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: broadhead (Appearance/NoteSkins/global/broadhead/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/broadhead/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: broadhead-3d+ (Appearance/NoteSkins/global/broadhead-3d+/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: broadhead (Appearance/NoteSkins/global/broadhead/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/broadhead/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: broadhead-columns (Appearance/NoteSkins/global/broadhead-columns/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/broadhead-columns/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: crystal (Appearance/NoteSkins/global/crystal/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/crystal/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: crystal4k (Appearance/NoteSkins/global/crystal4k/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/crystal4k/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: exact3d (Appearance/NoteSkins/global/exact3d/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/exact3d/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: fourv2 (Appearance/NoteSkins/global/fourv2/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/fourv2/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: glider-note (Appearance/NoteSkins/global/glider-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/glider-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: lambda (Appearance/NoteSkins/global/lambda/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/lambda/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: paws (Appearance/NoteSkins/global/paws/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/paws/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: paws-co-op (Appearance/NoteSkins/global/paws-co-op/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/paws-co-op/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: paws-simpleholds (Appearance/NoteSkins/global/paws-simpleholds/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/paws-simpleholds/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: shadowtip (Appearance/NoteSkins/global/shadowtip/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/shadowtip/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: shadowtip-3d (Appearance/NoteSkins/global/shadowtip-3d/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: shadowtip (Appearance/NoteSkins/global/shadowtip/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/shadowtip/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: shadowtip-3d+ (Appearance/NoteSkins/global/shadowtip-3d+/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: shadowtip (Appearance/NoteSkins/global/shadowtip/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/shadowtip/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: webbed (Appearance/NoteSkins/global/webbed/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/webbed/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	ThemeManager::SwitchThemeAndLanguage: "XX--STARLiGHT--twopointzero-main", "en"
+14:39:16	TRACE		Main Thread	Theme: XX--STARLiGHT--twopointzero-main
+14:39:16	TRACE		Main Thread	Language: en
+14:39:16	TRACE		Main Thread	Loading "/Scripts/32log.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Scripts/extend_table.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Scripts/Timing.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Scripts/unavailable_functions.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Scripts/32log.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Scripts/extend_table.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Scripts/Timing.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Scripts/unavailable_functions.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/00 init.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/00 lua5.3.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/01 alias.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/01 base.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/01 IniFile.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/02 Actor.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/02 ActorDef.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/02 Branches.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/02 Colors.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/02 Debug.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/02 Enum.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/02 OptionsMenu.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/02 Other.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/02 Serialize.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/02 Sprite.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/02 StageMods.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/02 ThemePrefs.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/02 ThemePrefsRows.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/02 Utilities.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/03 CustomSpeedMods.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/03 DisplaySpecs.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/03 Gameplay.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/03 GamePreferences.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/03 ModuleSys.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/03 ThemeAndGamePrefs.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/03 ThemeLibrary.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/03 UserPreferences2.lua" ...
+14:39:16	TRACE		Main Thread	Reading 'Appearance/Themes/_fallback/ThemeInfo.ini' failed: No such file or directory
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/04 CreditsHelpers.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/04 LogDisplay.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/04 NumPadEntry.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/04 pause_menu_helper.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/04 SetBGFitHelpers.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/05. ColumnModAliases.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/_fallback/Scripts/find_missing_lang_strings.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/00 AInit.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/00 FolderHandling.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/00 PlayerOptions.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/00 SelectMusic.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/00 Tile.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/00 Timing.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/01 Main.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/01 Other.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/01 settings_system.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/01 ThemeInfo.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/02 Branches.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/02 Colors.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/02 ThemePrefs.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/03 StatsEngine.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/04 CreditsHelpersXX.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/04 ThemeAndGamePrefs.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/05 ProfilePrefs.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/06 ProfilePrefsHelpers.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/99 Character.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/99 Gameplay.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/99 MenuMusic.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/99 Mouse.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/99 Scoring.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/99 SortHandler.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/Base64.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/ClearZ.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/Consensual-sick_wheel.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/ddr_groove_actor.lua" ...
+14:39:16	TRACE		Main Thread	Loading "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Scripts/DiffHelpers.lua" ...
+14:39:16	TRACE		Main Thread	Size is now 12 from 1.000000 (600)
+14:39:16	TRACE		Main Thread	Number of Coins to Load on boot: 3
+14:39:16	TRACE		Main Thread	Initializing lights drivers: SystemMessage,Export,
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: default (Appearance/NoteSkins/dance/default/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/default/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: defaultsm5 (Appearance/NoteSkins/dance/defaultsm5/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/defaultsm5/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: delta (Appearance/NoteSkins/dance/delta/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/delta/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: delta2019 (Appearance/NoteSkins/dance/delta2019/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/delta2019/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-note (Appearance/NoteSkins/dance/midi-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/midi-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-note-3d (Appearance/NoteSkins/dance/midi-note-3d/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/midi-note-3d/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-routine-p1 (Appearance/NoteSkins/dance/midi-routine-p1/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-note (Appearance/NoteSkins/dance/midi-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/midi-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-routine-p2 (Appearance/NoteSkins/dance/midi-routine-p2/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-routine-p1 (Appearance/NoteSkins/dance/midi-routine-p1/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-note (Appearance/NoteSkins/dance/midi-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/midi-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-solo (Appearance/NoteSkins/dance/midi-solo/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-note (Appearance/NoteSkins/dance/midi-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/midi-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-vivid (Appearance/NoteSkins/dance/midi-vivid/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-note (Appearance/NoteSkins/dance/midi-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/midi-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-vivid-3d (Appearance/NoteSkins/dance/midi-vivid-3d/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: midi-note (Appearance/NoteSkins/dance/midi-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/midi-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-color-holds (Appearance/NoteSkins/dance/outfox-color-holds/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note (Appearance/NoteSkins/dance/outfox-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/outfox-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/outfox-color-holds/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-itg (Appearance/NoteSkins/dance/outfox-itg/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note (Appearance/NoteSkins/dance/outfox-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/outfox-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-itg-3d (Appearance/NoteSkins/dance/outfox-itg-3d/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note-3D (Appearance/NoteSkins/dance/outfox-note-3D/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note (Appearance/NoteSkins/dance/outfox-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/outfox-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-itg-3d+ (Appearance/NoteSkins/dance/outfox-itg-3d+/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note-3D+ (Appearance/NoteSkins/dance/outfox-note-3D+/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note (Appearance/NoteSkins/dance/outfox-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/outfox-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note (Appearance/NoteSkins/dance/outfox-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/outfox-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note-3d (Appearance/NoteSkins/dance/outfox-note-3d/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note (Appearance/NoteSkins/dance/outfox-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/outfox-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note-3d+ (Appearance/NoteSkins/dance/outfox-note-3d+/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: outfox-note (Appearance/NoteSkins/dance/outfox-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/outfox-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: paw (Appearance/NoteSkins/dance/paw/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/paw/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: retro (Appearance/NoteSkins/dance/retro/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: default (Appearance/NoteSkins/dance/default/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/default/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/retro/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: retrobar (Appearance/NoteSkins/dance/retrobar/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: default (Appearance/NoteSkins/dance/default/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/default/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/retrobar/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: retrobar-splithand_whiteblue (Appearance/NoteSkins/dance/retrobar-splithand_whiteblue/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: default (Appearance/NoteSkins/dance/default/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/default/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/dance/retrobar-splithand_whiteblue/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: broadhead (Appearance/NoteSkins/global/broadhead/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/broadhead/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: broadhead-3d (Appearance/NoteSkins/global/broadhead-3d/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: broadhead (Appearance/NoteSkins/global/broadhead/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/broadhead/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: broadhead-3d+ (Appearance/NoteSkins/global/broadhead-3d+/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: broadhead (Appearance/NoteSkins/global/broadhead/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/broadhead/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: broadhead-columns (Appearance/NoteSkins/global/broadhead-columns/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/broadhead-columns/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: crystal (Appearance/NoteSkins/global/crystal/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/crystal/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: crystal4k (Appearance/NoteSkins/global/crystal4k/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/crystal4k/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: exact3d (Appearance/NoteSkins/global/exact3d/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/exact3d/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: fourv2 (Appearance/NoteSkins/global/fourv2/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/fourv2/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: glider-note (Appearance/NoteSkins/global/glider-note/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/glider-note/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: lambda (Appearance/NoteSkins/global/lambda/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/lambda/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: paws (Appearance/NoteSkins/global/paws/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/paws/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: paws-co-op (Appearance/NoteSkins/global/paws-co-op/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/paws-co-op/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: paws-simpleholds (Appearance/NoteSkins/global/paws-simpleholds/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/paws-simpleholds/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: shadowtip (Appearance/NoteSkins/global/shadowtip/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/shadowtip/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: shadowtip-3d (Appearance/NoteSkins/global/shadowtip-3d/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: shadowtip (Appearance/NoteSkins/global/shadowtip/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/shadowtip/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: shadowtip-3d+ (Appearance/NoteSkins/global/shadowtip-3d+/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: shadowtip (Appearance/NoteSkins/global/shadowtip/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/shadowtip/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: webbed (Appearance/NoteSkins/global/webbed/)
+14:39:16	TRACE		Main Thread	LoadNoteSkinDataRecursive: common (Appearance/NoteSkins/common/common/)
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/common/common/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	Load script "Appearance/NoteSkins/global/webbed/NoteSkin.lua"
+14:39:16	TRACE		Main Thread	ThemeManager::SwitchThemeAndLanguage: "XX--STARLiGHT--twopointzero-main", "en"
+14:39:16	TRACE		Main Thread	Reading 'Cache/images.cache' failed: No such file or directory
+14:39:16	TRACE		Main Thread	Attempting to load 53 songs from "Songs/3rd Mix"
+14:39:16	TRACE		Main Thread	Loaded 53 songs from "Songs/3rd Mix"
+14:39:16	TRACE		Main Thread	Attempting to load 69 songs from "Songs/DDR Extreme"
+14:39:17	TRACE		Main Thread	Loaded 69 songs from "Songs/DDR Extreme"
+14:39:17	TRACE		Main Thread	Attempting to load 95 songs from "Songs/DDRMAX 1 _ 2"
+14:39:17	TRACE		Main Thread	Loaded 95 songs from "Songs/DDRMAX 1 _ 2"
+14:39:17	TRACE		Main Thread	Attempting to load 1 songs from "Songs/Peylist"
+14:39:17	TRACE		Main Thread	Loaded 1 songs from "Songs/Peylist"
+14:39:17	TRACE		Main Thread	Attempting to load 3 songs from "Songs/Tiktok"
+14:39:17	TRACE		Main Thread	Loaded 3 songs from "Songs/Tiktok"
+14:39:17	TRACE		Main Thread	Attempting to load 1 songs from "Songs/Uyen Mix"
+14:39:17	TRACE		Main Thread	Loaded 1 songs from "Songs/Uyen Mix"
+14:39:17	TRACE		Main Thread	Attempting to load 33 songs from "Songs/Ying Special"
+14:39:17	TRACE		Main Thread	Loaded 33 songs from "Songs/Ying Special"
+14:39:17	TRACE		Main Thread	Found 255 songs in 0.534502 seconds.
+14:39:17	TRACE		Main Thread	Loading courses.
+14:39:17	TRACE		Main Thread	CourseLoaderCRS::LoadFromCRSFile("/Courses/Default/ChallengingRandom5.crs") ("Cache/Courses/Courses_Default_ChallengingRandom5.crs.ofcache")
+14:39:17	TRACE		Main Thread	CourseLoaderCRS::LoadFromCRSFile("/Courses/Default/Jupiter.crs")
+14:39:17	TRACE		Main Thread	CourseLoaderCRS::LoadFromCRSFile("/Courses/Default/MostPlayed_01-04.crs") ("Cache/Courses/Courses_Default_MostPlayed_01-04.crs.ofcache")
+14:39:17	TRACE		Main Thread	CourseLoaderCRS::LoadFromCRSFile("/Courses/Default/MostPlayed_05-08.crs") ("Cache/Courses/Courses_Default_MostPlayed_05-08.crs.ofcache")
+14:39:17	TRACE		Main Thread	CourseLoaderCRS::LoadFromCRSFile("/Courses/Default/MostPlayed_09-12.crs") ("Cache/Courses/Courses_Default_MostPlayed_09-12.crs.ofcache")
+14:39:17	TRACE		Main Thread	CourseLoaderCRS::LoadFromCRSFile("/Courses/Default/MostPlayed_13-16.crs") ("Cache/Courses/Courses_Default_MostPlayed_13-16.crs.ofcache")
+14:39:17	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MemoryCardManager ready.ogg" (precache: 1)
+14:39:17	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MemoryCardManager error.ogg" (precache: 1)
+14:39:17	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/_fallback/Sounds/_missing.ogg" (precache: 1)
+14:39:17	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_silent.ogg" (precache: 1)
+14:39:17	TRACE		Main Thread	Profile::LoadAllFromDir( /Save/MachineProfile/ )
+14:39:17	TRACE		Main Thread	Loading /Save/MachineProfile/Stats.xml
+14:39:17	TRACE		Main Thread	Done.
+14:39:17	TRACE		Main Thread	UnlockManager::Load()
+14:39:17	TRACE		Main Thread	Last seen video driver: ATI Technologies Inc. - AMD Radeon (TM) RX 480
+14:39:17	TRACE		Main Thread	Requested GL Version Context: 3.1
+14:39:17	TRACE		Main Thread	Got GL Version Context: 3.1
+14:39:17	TRACE		Main Thread	Got Context Profile Mask: 2 (2 = compatibility)
+14:39:17	TRACE		Main Thread	OutFox Engine: You are using a modern GL Context: 3.1
+14:39:17	TRACE		Main Thread	RageDisplay_Legacy::RageDisplay_Legacy()
+14:39:17	TRACE		Main Thread	LowLevelWindow_SDL::TryVideoMode called
+14:39:17	TRACE		Main Thread	Renderer Found By SDL: direct3d
+14:39:17	TRACE		Main Thread	Renderer Found By SDL: direct3d11
+14:39:17	TRACE		Main Thread	Renderer Found By SDL: opengl
+14:39:17	TRACE		Main Thread	Renderer Found By SDL: opengles2
+14:39:17	TRACE		Main Thread	Renderer Found By SDL: software
+14:39:17	TRACE		Main Thread	OutFox Serene: OpenGL context created successfully
+14:39:17	TRACE		Main Thread	Outfox SDL Reported Variables:
+14:39:17	TRACE		Main Thread	Outfox Engine: SDL compiled version: 2.23.1
+14:39:17	TRACE		Main Thread	Outfox Engine: SDL linked version: 2.23.1
+14:39:17	TRACE		Main Thread	Compiling shader Data/Shaders/GLSL/Texture matrix scaling.vert
+14:39:17	TRACE		Main Thread	Compiling shader Data/Shaders/GLSL/Shell.frag
+14:39:17	TRACE		Main Thread	Compiling shader Data/Shaders/GLSL/Shell.vert
+14:39:17	TRACE		Main Thread	Compiling shader Data/Shaders/GLSL/Cel.frag
+14:39:17	TRACE		Main Thread	Compiling shader Data/Shaders/GLSL/Cel.vert
+14:39:17	TRACE		Main Thread	Compiling shader Data/Shaders/GLSL/Distance field.frag
+14:39:17	TRACE		Main Thread	Compiling shader Data/Shaders/GLSL/Distance field.vert
+14:39:17	TRACE		Main Thread	Compiling shader Data/Shaders/GLSL/Unpremultiply.frag
+14:39:17	TRACE		Main Thread	Compiling shader Data/Shaders/GLSL/Color burn.frag
+14:39:17	TRACE		Main Thread	Compiling shader Data/Shaders/GLSL/Color dodge.frag
+14:39:17	TRACE		Main Thread	Compiling shader Data/Shaders/GLSL/Vivid light.frag
+14:39:17	TRACE		Main Thread	Compiling shader Data/Shaders/GLSL/Hard mix.frag
+14:39:17	TRACE		Main Thread	Compiling shader Data/Shaders/GLSL/Overlay.frag
+14:39:17	TRACE		Main Thread	Compiling shader Data/Shaders/GLSL/Screen.frag
+14:39:17	TRACE		Main Thread	Compiling shader Data/Shaders/GLSL/YUV2RGB.frag
+14:39:17	TRACE		Main Thread	Compiling shader Data/Shaders/GLSL/ColorKey.frag
+14:39:17	TRACE		Main Thread	Compiling shader Data/Shaders/GLSL/AlphaBlack.frag
+14:39:17	TRACE		Main Thread	0.50 FPS, 1.00 av FPS, 0 VPF, 102 MB, OpenGL
+14:39:17	TRACE		Main Thread	OpenGL Line width range: Min=1.00, Max=128.00
+14:39:17	TRACE		Main Thread	OpenGL Point size range: Min=1.00, Max=63.00
+14:39:17	TRACE		Main Thread	Current video driver: ATI Technologies Inc. - AMD Radeon (TM) RX 480
+14:39:17	TRACE		Main Thread	RageInput::RageInput()
+14:39:17	TRACE		Main Thread	Initialising InputHandler_Win32_Legacy
+14:39:17	TRACE		Main Thread	Win32 Legacy - Enumerating Keyboard devices
+14:39:17	TRACE		Main Thread	Win32 Legacy - Enumerating Joystick devices
+14:39:18	TRACE		Main Thread	OutFox Engine: Opening device 'Keyboard'
+14:39:18	TRACE		Main Thread	OutFox Engine: Opening device 'L-TEK Dance Base MINI'
+14:39:18	TRACE		Main Thread	OutFox Engine: Opening device 'L-TEK Dance Base MINI'
+14:39:18	TRACE		Main Thread	OutFox Engine: Win32_Legacy thread started.
+14:39:18	TRACE		Main Thread	Outfox Engine: Input subsystem - Initialising MiniSDL Window Handler...
+14:39:18	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:39:18	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:39:18	TRACE		Main Thread	Players joined: none
+14:39:18	TRACE		Main Thread	Players joined: none
+14:39:18	TRACE		Main Thread	Game Seed set to 660739577
+14:39:18	TRACE		Main Thread	Stage Seed set to 1415587257
+14:39:18	TRACE		Main Thread	ScreenManager::ThemeChanged
+14:39:18	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Common start.ogg" (precache: 0)
+14:39:18	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Common coin.ogg" (precache: 1)
+14:39:18	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/_fallback/Sounds/Common Cancel.ogg" (precache: 1)
+14:39:18	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/_fallback/Sounds/Common invalid.ogg" (precache: 0)
+14:39:18	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/_fallback/Sounds/Common screenshot.ogg" (precache: 0)
+14:39:18	TRACE		Main Thread	Loading screen: "ScreenSystemLayer"
+14:39:22	TRACE		Main Thread	Loaded "ScreenSystemLayer" ("ScreenSystemLayer") in 3.810869
+14:39:22	TRACE		Main Thread	Loading screen: "ScreenSyncOverlay"
+14:39:22	TRACE		Main Thread	Loaded "ScreenSyncOverlay" ("ScreenSyncOverlay") in 0.001540
+14:39:22	TRACE		Main Thread	Loading screen: "ScreenStatsOverlay"
+14:39:22	TRACE		Main Thread	Loaded "ScreenStatsOverlay" ("ScreenStatsOverlay") in 0.000358
+14:39:22	TRACE		Main Thread	Loading screen: "ScreenDebugOverlay"
+14:39:22	TRACE		Main Thread	Loaded "ScreenDebugOverlay" ("ScreenDebugOverlay") in 0.007627
+14:39:22	TRACE		Main Thread	Loading screen: "ScreenInstallOverlay"
+14:39:22	TRACE		Main Thread	Loaded "ScreenInstallOverlay" ("ScreenInstallOverlay") in 0.000757
+14:39:22	TRACE		Main Thread	Players joined: none
+14:39:22	TRACE		Main Thread	Setting Thread Status
+14:39:22	TRACE		Main Thread	Loading screen: "ScreenClear"
+14:39:22	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:39:22	TRACE		Main Thread	Loaded "ScreenClear" ("ScreenAttract") in 0.129418
+14:39:22	TRACE		Main Thread	Loading screen background "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenClear background.lua"
+14:39:22	TRACE		Main Thread	Theme: XX--STARLiGHT--twopointzero-main
+14:39:22	TRACE		Main Thread	Language: en
+14:39:22	TRACE		Main Thread	PushScreen: "ScreenClear"
+14:39:22	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:39:22	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:39:22	TRACE		Main Thread	Players joined: none
+14:39:22	TRACE		Main Thread	Players joined: none
+14:39:22	TRACE		Main Thread	Game Seed set to 1038075032
+14:39:22	TRACE		Main Thread	Stage Seed set to 1193911037
+14:39:22	TRACE		Main Thread	Players joined: none
+14:39:22	TRACE		Main Thread	App doesn't have focus
+14:39:22	TRACE		Main Thread	App has focus
+14:39:22	TRACE		Main Thread	App doesn't have focus
+14:39:22	TRACE		Main Thread	Zeroing this update.  Was 0.198623
+14:39:23	TRACE		Main Thread	25.66 FPS, 26.00 av FPS, 81 VPF, 173 MB, OpenGL
+14:39:24	TRACE		Main Thread	Performing texture garbage collection.
+14:39:24	TRACE		Main Thread	Loading screen: "ScreenPotatoPC"
+14:39:24	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:39:24	TRACE		Main Thread	Loaded "ScreenPotatoPC" ("ScreenAttract") in 0.187133
+14:39:24	TRACE		Main Thread	Loading screen background "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWarning background/default.lua"
+14:39:24	TRACE		Main Thread	PushScreen: "ScreenPotatoPC"
+14:39:24	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:39:24	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:39:24	TRACE		Main Thread	Players joined: none
+14:39:24	TRACE		Main Thread	Players joined: none
+14:39:24	TRACE		Main Thread	Game Seed set to 1831073025
+14:39:24	TRACE		Main Thread	Stage Seed set to 886899959
+14:39:24	TRACE		Main Thread	Players joined: none
+14:39:24	TRACE		Main Thread	Performing texture garbage collection.
+14:39:24	TRACE		Main Thread	Zeroing this update.  Was 0.279592
+14:39:25	TRACE		Main Thread	30.83 FPS, 31.00 av FPS, 91 VPF, 173 MB, OpenGL
+14:39:26	TRACE		Main Thread	29.97 FPS, 30.50 av FPS, 88 VPF, 173 MB, OpenGL
+14:39:27	TRACE		Main Thread	30.01 FPS, 30.67 av FPS, 88 VPF, 173 MB, OpenGL
+14:39:28	TRACE		Main Thread	29.98 FPS, 30.50 av FPS, 89 VPF, 173 MB, OpenGL
+14:39:29	TRACE		Main Thread	29.95 FPS, 30.40 av FPS, 92 VPF, 173 MB, OpenGL
+14:39:30	TRACE		Main Thread	30.03 FPS, 30.50 av FPS, 92 VPF, 158 MB, OpenGL
+14:39:31	TRACE		Main Thread	29.96 FPS, 30.43 av FPS, 92 VPF, 158 MB, OpenGL
+14:39:32	TRACE		Main Thread	29.97 FPS, 30.38 av FPS, 93 VPF, 158 MB, OpenGL
+14:39:32	TRACE		Main Thread	Performing texture garbage collection.
+14:39:32	TRACE		Main Thread	Loading screen: "ScreenMDSplash"
+14:39:32	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:39:32	TRACE		Main Thread	Loaded "ScreenMDSplash" ("ScreenAttract") in 0.013524
+14:39:32	TRACE		Main Thread	Loading screen background "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenMDSplash background/default.lua"
+14:39:32	TRACE		Main Thread	FFMPEG Decoder: Movie /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenMDSplash background/MIDFLIGHT DIGITAL 2021.mp4 has handler 'MPEG Part 4', type 'mp4'
+14:39:32	TRACE		Main Thread	Initializing driver: MiniFFMpeg
+14:39:32	TRACE		Main Thread	FFMPEG Decoder: AVFormat Error, Couldnt Open: C:/Games/OutFox 0.4.19 LTS Win64/Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenMDSplash background/MIDFLIGHT DIGITAL 2021.mp4.
+14:39:32	TRACE		Main Thread	FFMPEG Decoder: Trying AVIO fallback.
+14:39:32	TRACE		Main Thread	FFMPEG Decoder: Opening codec h264
+14:39:32	TRACE		Main Thread	FFMPEG Decoder: There are 4 threads available
+14:39:32	TRACE		Main Thread	Created movie texture "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenMDSplash background/MIDFLIGHT DIGITAL 2021.mp4" with driver "MiniFFMpeg"
+14:39:32	TRACE		Main Thread	PushScreen: "ScreenMDSplash"
+14:39:32	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:39:32	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:39:32	TRACE		Main Thread	Players joined: none
+14:39:32	TRACE		Main Thread	Players joined: none
+14:39:32	TRACE		Main Thread	Game Seed set to 53498835
+14:39:32	TRACE		Main Thread	Stage Seed set to 2138636116
+14:39:32	TRACE		Main Thread	Players joined: none
+14:39:32	TRACE		Main Thread	Performing texture garbage collection.
+14:39:32	TRACE		Main Thread	Zeroing this update.  Was 0.051055
+14:39:33	TRACE		Main Thread	28.80 FPS, 29.00 av FPS, 85 VPF, 201 MB, OpenGL
+14:39:34	TRACE		Main Thread	25.98 FPS, 27.50 av FPS, 84 VPF, 201 MB, OpenGL
+14:39:35	TRACE		Main Thread	24.58 FPS, 26.67 av FPS, 84 VPF, 200 MB, OpenGL
+14:39:36	TRACE		Main Thread	25.17 FPS, 26.50 av FPS, 84 VPF, 202 MB, OpenGL
+14:39:37	TRACE		Main Thread	27.49 FPS, 26.80 av FPS, 84 VPF, 202 MB, OpenGL
+14:39:38	TRACE		Main Thread	27.99 FPS, 27.00 av FPS, 84 VPF, 202 MB, OpenGL
+14:39:39	TRACE		Main Thread	28.99 FPS, 27.29 av FPS, 84 VPF, 202 MB, OpenGL
+14:39:40	TRACE		Main Thread	28.95 FPS, 27.50 av FPS, 84 VPF, 202 MB, OpenGL
+14:39:42	TRACE		Main Thread	29.02 FPS, 27.78 av FPS, 84 VPF, 202 MB, OpenGL
+14:39:42	TRACE		Main Thread	App has focus
+14:39:42	TRACE		Main Thread	Setting Thread Status
+14:39:43	TRACE		Main Thread	39.37 FPS, 29.00 av FPS, 84 VPF, 203 MB, OpenGL
+14:39:43	TRACE		Main Thread	Performing texture garbage collection.
+14:39:43	TRACE		Main Thread	Loading screen: "ScreenDisclaimer"
+14:39:43	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:39:43	TRACE		Main Thread	Loaded "ScreenDisclaimer" ("ScreenAttract") in 0.014890
+14:39:43	TRACE		Main Thread	Loading screen background "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenDisclaimer background/default.lua"
+14:39:43	TRACE		Main Thread	PushScreen: "ScreenDisclaimer"
+14:39:43	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:39:43	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:39:43	TRACE		Main Thread	Players joined: none
+14:39:43	TRACE		Main Thread	Players joined: none
+14:39:43	TRACE		Main Thread	Game Seed set to 610886974
+14:39:43	TRACE		Main Thread	Stage Seed set to 10973873
+14:39:43	TRACE		Main Thread	Players joined: none
+14:39:43	TRACE		Main Thread	Shutting down FFMPEG thread ...
+14:39:43	TRACE		Main Thread	Performing texture garbage collection.
+14:39:43	TRACE		Main Thread	Zeroing this update.  Was 0.118025
+14:39:43	TRACE		Main Thread	ScreenAttract::AttractInput: begin fading to START_SCREEN
+14:39:44	TRACE		Main Thread	Performing texture garbage collection.
+14:39:44	TRACE		Main Thread	Loading screen: "ScreenTitleMenu"
+14:39:44	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:39:44	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:39:44	TRACE		Main Thread	Players joined: none
+14:39:44	TRACE		Main Thread	Players joined: none
+14:39:44	TRACE		Main Thread	Game Seed set to 76234589
+14:39:44	TRACE		Main Thread	Stage Seed set to 2018727204
+14:39:44	TRACE		Main Thread	Screen "ScreenTitleMenu" preparing "ScreenSelectMode"
+14:39:44	TRACE		Main Thread	Loading screen: "ScreenSelectMode"
+14:39:44	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:39:44	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:39:44	TRACE		Main Thread	Players joined: none
+14:39:44	TRACE		Main Thread	Players joined: none
+14:39:44	TRACE		Main Thread	Game Seed set to 578447952
+14:39:44	TRACE		Main Thread	Stage Seed set to 365127101
+14:39:44	TRACE		Main Thread	Screen "ScreenSelectMode" preparing "ScreenSelectStyle"
+14:39:44	TRACE		Main Thread	Loading screen: "ScreenSelectStyle"
+14:39:44	TRACE		Main Thread	Screen "ScreenSelectStyle" preparing "ScreenCaution"
+14:39:44	TRACE		Main Thread	Loading screen: "ScreenCaution"
+14:39:44	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:39:44	TRACE		Main Thread	Loaded "ScreenCaution" ("ScreenSplash") in 0.035211
+14:39:44	TRACE		Main Thread	Loading screen background "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements background/default.lua"
+14:39:44	TRACE		Main Thread	FFMPEG Decoder: Movie /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements background/Default/background.mp4 has handler 'MPEG Part 4', type 'mp4'
+14:39:44	TRACE		Main Thread	Initializing driver: MiniFFMpeg
+14:39:44	TRACE		Main Thread	FFMPEG Decoder: AVFormat Error, Couldnt Open: C:/Games/OutFox 0.4.19 LTS Win64/Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements background/Default/background.mp4.
+14:39:44	TRACE		Main Thread	FFMPEG Decoder: Trying AVIO fallback.
+14:39:44	TRACE		Main Thread	FFMPEG Decoder: Opening codec h264
+14:39:44	TRACE		Main Thread	FFMPEG Decoder: There are 4 threads available
+14:39:44	TRACE		Main Thread	Created movie texture "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements background/Default/background.mp4" with driver "MiniFFMpeg"
+14:39:44	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:39:44	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenSelectStyle in.ogg" (precache: 1)
+14:39:44	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenSelectStyle out.ogg" (precache: 1)
+14:39:44	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenSelectStyle change.ogg" (precache: 1)
+14:39:44	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Common start.ogg" (precache: 0)
+14:39:44	TRACE		Main Thread	Loaded "ScreenSelectStyle" ("ScreenSelectMaster") in 0.348362
+14:39:44	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:39:44	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Title_In.ogg" (precache: 1)
+14:39:44	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenTitleMenu change.ogg" (precache: 1)
+14:39:44	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Common start.ogg" (precache: 0)
+14:39:44	TRACE		Main Thread	Loaded "ScreenSelectMode" ("ScreenTitleMenu") in 0.632770
+14:39:44	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:39:44	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenTitleMenu change.ogg" (precache: 1)
+14:39:44	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Common start.ogg" (precache: 0)
+14:39:44	TRACE		Main Thread	Loaded "ScreenTitleMenu" ("ScreenTitleMenu") in 0.658151
+14:39:44	TRACE		Main Thread	PushScreen: "ScreenTitleMenu"
+14:39:44	TRACE		Main Thread	Players joined: none
+14:39:44	TRACE		Music thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_silent.ogg" (precache: 0)
+14:39:44	TRACE		Music thread	Sound "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_silent.ogg" has a start time 0.000004 seconds in the past
+14:39:44	TRACE		Main Thread	Performing texture garbage collection.
+14:39:44	TRACE		Main Thread	Zeroing this update.  Was 0.665839
+14:39:45	TRACE		Main Thread	Players joined: P1
+14:39:45	TRACE		Main Thread	Players joined: P1
+14:39:45	TRACE		Main Thread	59.48 FPS, 60.00 av FPS, 180 VPF, 218 MB, OpenGL
+14:39:46	TRACE		Main Thread	Players joined: P1
+14:39:46	TRACE		Main Thread	ScreenSelect::~ScreenSelect()
+14:39:46	TRACE		Main Thread	Performing texture garbage collection.
+14:39:46	TRACE		Main Thread	PushScreen: "ScreenSelectMode"
+14:39:46	TRACE		Music thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_silent.ogg" (precache: 0)
+14:39:46	TRACE		Main Thread	Players joined: P1
+14:39:46	TRACE		Music thread	Sound "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_silent.ogg" has a start time 0.000001 seconds in the past
+14:39:46	TRACE		Main Thread	ScreenSelect::~ScreenSelect()
+14:39:46	TRACE		Main Thread	Performing texture garbage collection.
+14:39:46	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screenselectstyle change.ogg"
+14:39:46	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screenselectstyle in.ogg"
+14:39:46	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screenselectstyle out.ogg"
+14:39:46	TRACE		Main Thread	Zeroing this update.  Was 0.008690
+14:39:47	TRACE		Main Thread	60.00 FPS, 61.00 av FPS, 507 VPF, 220 MB, OpenGL
+14:39:48	TRACE		Main Thread	56.97 FPS, 59.00 av FPS, 696 VPF, 221 MB, OpenGL
+14:39:49	TRACE		Main Thread	57.98 FPS, 58.67 av FPS, 727 VPF, 221 MB, OpenGL
+14:39:50	TRACE		Main Thread	58.97 FPS, 58.75 av FPS, 716 VPF, 221 MB, OpenGL
+14:39:50	TRACE		Main Thread	Players joined: P1
+14:39:51	TRACE		Main Thread	59.99 FPS, 59.00 av FPS, 674 VPF, 221 MB, OpenGL
+14:39:51	TRACE		Main Thread	ScreenSelect::~ScreenSelect()
+14:39:51	TRACE		Main Thread	Performing texture garbage collection.
+14:39:51	TRACE		Main Thread	Loading screen: "ScreenOptionsService"
+14:39:52	TRACE		Main Thread	Players joined: P1
+14:39:52	TRACE		Main Thread	Players joined: P1
+14:39:52	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Common back.ogg" (precache: 1)
+14:39:52	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenOptions change.ogg" (precache: 1)
+14:39:52	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenOptions next.mp3" (precache: 1)
+14:39:52	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenOptions next.mp3" (precache: 1)
+14:39:52	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenOptions next.mp3" (precache: 1)
+14:39:52	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenOptions next.mp3" (precache: 1)
+14:39:52	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Common start.ogg" (precache: 1)
+14:39:52	TRACE		Main Thread	ScreenOptions::InitMenu()
+14:39:52	TRACE		Main Thread	Loaded "ScreenOptionsService" ("ScreenOptionsMaster") in 0.056584
+14:39:52	TRACE		Main Thread	PushScreen: "ScreenOptionsService"
+14:39:52	TRACE		Music thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuMusic/options/Default (loop).ogg" (precache: 0)
+14:39:52	TRACE		Main Thread	Players joined: P1, P2
+14:39:52	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screentitlemenu change.ogg"
+14:39:52	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/title_in.ogg"
+14:39:52	TRACE		Main Thread	Zeroing this update.  Was 0.068648
+14:39:52	TRACE		Music thread	Sound "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuMusic/options/Default (loop).ogg" has a start time 0.000696 seconds in the past
+14:39:52	TRACE		Main Thread	56.00 FPS, 56.00 av FPS, 1972 VPF, 221 MB, OpenGL
+14:39:53	TRACE		Main Thread	ScreenOptions::~ScreenOptions()
+14:39:53	TRACE		Main Thread	Performing texture garbage collection.
+14:39:53	TRACE		Main Thread	Loading screen: "ScreenReloadSongs"
+14:39:53	TRACE		Main Thread	Loaded "ScreenReloadSongs" ("ScreenReloadSongs") in 0.032254
+14:39:53	TRACE		Main Thread	Loading screen background "/Appearance/Themes/_fallback/BGAnimations/_blank.lua"
+14:39:53	TRACE		Main Thread	PushScreen: "ScreenReloadSongs"
+14:39:53	TRACE		Main Thread	Players joined: P1, P2
+14:39:53	TRACE		Main Thread	Shutting down FFMPEG thread ...
+14:39:53	TRACE		Main Thread	Performing texture garbage collection.
+14:39:53	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/common back.ogg"
+14:39:53	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screenoptions change.ogg"
+14:39:53	TRACE		Main Thread	Zeroing this update.  Was 0.076656
+14:39:53	TRACE		Main Thread	SaveStatsXmlToDir: /Save/MachineProfile/
+14:39:54	TRACE		Main Thread	X:\Development\ProjectOutFox-LTS4\ProjectOutfox\src\RageFileDriverDirect.cpp:161: remove 'C:/Games/OutFox 0.4.19 LTS Win64/Save/MachineProfile/Edits/newdir.temp.newdir'
+14:39:54	TRACE		Main Thread	X:\Development\ProjectOutFox-LTS4\ProjectOutfox\src\RageFileDriverDirect.cpp:161: remove 'C:/Games/OutFox 0.4.19 LTS Win64/Save/MachineProfile/EditCourses/newdir.temp.newdir'
+14:39:54	TRACE		Main Thread	X:\Development\ProjectOutFox-LTS4\ProjectOutfox\src\RageFileDriverDirect.cpp:161: remove 'C:/Games/OutFox 0.4.19 LTS Win64/Save/MachineProfile/Screenshots/newdir.temp.newdir'
+14:39:54	TRACE		Main Thread	X:\Development\ProjectOutFox-LTS4\ProjectOutfox\src\RageFileDriverDirect.cpp:161: remove 'C:/Games/OutFox 0.4.19 LTS Win64/Save/MachineProfile/Rivals/newdir.temp.newdir'
+14:39:54	TRACE		Main Thread	Attempting to load 53 songs from "Songs/3rd Mix"
+14:39:54	TRACE		Main Thread	Loaded 53 songs from "Songs/3rd Mix"
+14:39:54	TRACE		Main Thread	Attempting to load 69 songs from "Songs/DDR Extreme"
+14:39:54	TRACE		Main Thread	Loaded 69 songs from "Songs/DDR Extreme"
+14:39:54	TRACE		Main Thread	Attempting to load 95 songs from "Songs/DDRMAX 1 _ 2"
+14:39:54	TRACE		Main Thread	Loaded 95 songs from "Songs/DDRMAX 1 _ 2"
+14:39:54	TRACE		Main Thread	Attempting to load 1 songs from "Songs/Peylist"
+14:39:54	TRACE		Main Thread	Loaded 1 songs from "Songs/Peylist"
+14:39:54	TRACE		Main Thread	Attempting to load 3 songs from "Songs/Tiktok"
+14:39:54	TRACE		Main Thread	Loaded 3 songs from "Songs/Tiktok"
+14:39:54	TRACE		Main Thread	Attempting to load 1 songs from "Songs/Uyen Mix"
+14:39:54	TRACE		Main Thread	Loaded 1 songs from "Songs/Uyen Mix"
+14:39:54	TRACE		Main Thread	Attempting to load 33 songs from "Songs/Ying Special"
+14:39:54	TRACE		Main Thread	Song::SaveToSSCFile('Cache/Songs/Songs_Ying Special_Money.ofcache')
+14:39:54	TRACE		Main Thread	Loaded 33 songs from "Songs/Ying Special"
+14:39:54	TRACE		Main Thread	Found 255 songs in 0.558466 seconds.
+14:39:54	TRACE		Main Thread	Loading courses.
+14:39:54	TRACE		Main Thread	CourseLoaderCRS::LoadFromCRSFile("/Courses/Default/ChallengingRandom5.crs") ("Cache/Courses/Courses_Default_ChallengingRandom5.crs.ofcache")
+14:39:54	TRACE		Main Thread	CourseLoaderCRS::LoadFromCRSFile("/Courses/Default/Jupiter.crs")
+14:39:54	TRACE		Main Thread	CourseLoaderCRS::LoadFromCRSFile("/Courses/Default/MostPlayed_01-04.crs") ("Cache/Courses/Courses_Default_MostPlayed_01-04.crs.ofcache")
+14:39:54	TRACE		Main Thread	CourseLoaderCRS::LoadFromCRSFile("/Courses/Default/MostPlayed_05-08.crs") ("Cache/Courses/Courses_Default_MostPlayed_05-08.crs.ofcache")
+14:39:54	TRACE		Main Thread	CourseLoaderCRS::LoadFromCRSFile("/Courses/Default/MostPlayed_09-12.crs") ("Cache/Courses/Courses_Default_MostPlayed_09-12.crs.ofcache")
+14:39:54	TRACE		Main Thread	CourseLoaderCRS::LoadFromCRSFile("/Courses/Default/MostPlayed_13-16.crs") ("Cache/Courses/Courses_Default_MostPlayed_13-16.crs.ofcache")
+14:39:54	TRACE		Main Thread	Profile::LoadAllFromDir( /Save/MachineProfile/ )
+14:39:54	TRACE		Main Thread	Loading /Save/MachineProfile/Stats.xml
+14:39:54	TRACE		Main Thread	Done.
+14:39:54	TRACE		Main Thread	UnlockManager::Load()
+14:39:54	TRACE		Main Thread	Performing texture garbage collection.
+14:39:54	TRACE		Main Thread	Loading screen: "ScreenSelectMode"
+14:39:54	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:39:54	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:39:54	TRACE		Main Thread	Players joined: none
+14:39:54	TRACE		Main Thread	Players joined: none
+14:39:54	TRACE		Main Thread	Game Seed set to 2075493332
+14:39:54	TRACE		Main Thread	Stage Seed set to 891649023
+14:39:54	TRACE		Main Thread	Screen "ScreenSelectMode" preparing "ScreenSelectStyle"
+14:39:54	TRACE		Main Thread	Loading screen: "ScreenSelectStyle"
+14:39:54	TRACE		Main Thread	Screen "ScreenSelectStyle" preparing "ScreenCaution"
+14:39:54	TRACE		Main Thread	Loading screen: "ScreenCaution"
+14:39:54	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:39:54	TRACE		Main Thread	Loaded "ScreenCaution" ("ScreenSplash") in 0.084882
+14:39:54	TRACE		Main Thread	Loading screen background "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements background/default.lua"
+14:39:54	TRACE		Main Thread	FFMPEG Decoder: Movie /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements background/Default/background.mp4 has handler 'MPEG Part 4', type 'mp4'
+14:39:54	TRACE		Main Thread	Initializing driver: MiniFFMpeg
+14:39:54	TRACE		Main Thread	FFMPEG Decoder: AVFormat Error, Couldnt Open: C:/Games/OutFox 0.4.19 LTS Win64/Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements background/Default/background.mp4.
+14:39:54	TRACE		Main Thread	FFMPEG Decoder: Trying AVIO fallback.
+14:39:54	TRACE		Main Thread	FFMPEG Decoder: Opening codec h264
+14:39:54	TRACE		Main Thread	FFMPEG Decoder: There are 4 threads available
+14:39:54	TRACE		Main Thread	Created movie texture "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements background/Default/background.mp4" with driver "MiniFFMpeg"
+14:39:54	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:39:54	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenSelectStyle in.ogg" (precache: 1)
+14:39:54	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenSelectStyle out.ogg" (precache: 1)
+14:39:54	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenSelectStyle change.ogg" (precache: 1)
+14:39:54	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Common start.ogg" (precache: 0)
+14:39:54	TRACE		Main Thread	Loaded "ScreenSelectStyle" ("ScreenSelectMaster") in 0.266112
+14:39:54	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:39:55	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Title_In.ogg" (precache: 1)
+14:39:55	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenTitleMenu change.ogg" (precache: 1)
+14:39:55	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Common start.ogg" (precache: 0)
+14:39:55	TRACE		Main Thread	Loaded "ScreenSelectMode" ("ScreenTitleMenu") in 0.351480
+14:39:55	TRACE		Main Thread	PushScreen: "ScreenSelectMode"
+14:39:55	TRACE		Music thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_silent.ogg" (precache: 0)
+14:39:55	TRACE		Main Thread	Players joined: none
+14:39:55	TRACE		Music thread	Sound "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_silent.ogg" has a start time 0.000001 seconds in the past
+14:39:55	TRACE		Main Thread	Performing texture garbage collection.
+14:39:55	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screenoptions next.mp3"
+14:39:55	TRACE		Main Thread	Zeroing this update.  Was 0.353822
+14:39:56	TRACE		Main Thread	59.72 FPS, 60.00 av FPS, 554 VPF, 225 MB, OpenGL
+14:39:57	TRACE		Main Thread	59.98 FPS, 60.00 av FPS, 729 VPF, 226 MB, OpenGL
+14:39:57	TRACE		Main Thread	Players joined: P1
+14:39:57	TRACE		Main Thread	Players joined: P1
+14:39:57	TRACE		Main Thread	Players joined: P1
+14:39:58	TRACE		Main Thread	59.99 FPS, 60.00 av FPS, 698 VPF, 226 MB, OpenGL
+14:39:58	TRACE		Main Thread	ScreenSelect::~ScreenSelect()
+14:39:58	TRACE		Main Thread	Performing texture garbage collection.
+14:39:58	TRACE		Main Thread	Loading screen: "ScreenOptionsService"
+14:39:58	TRACE		Main Thread	Players joined: P1
+14:39:58	TRACE		Main Thread	Players joined: P1
+14:39:58	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Common back.ogg" (precache: 1)
+14:39:58	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenOptions change.ogg" (precache: 1)
+14:39:58	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenOptions next.mp3" (precache: 1)
+14:39:58	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenOptions next.mp3" (precache: 1)
+14:39:58	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenOptions next.mp3" (precache: 1)
+14:39:58	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenOptions next.mp3" (precache: 1)
+14:39:58	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Common start.ogg" (precache: 1)
+14:39:58	TRACE		Main Thread	ScreenOptions::InitMenu()
+14:39:58	TRACE		Main Thread	Loaded "ScreenOptionsService" ("ScreenOptionsMaster") in 0.046585
+14:39:58	TRACE		Main Thread	PushScreen: "ScreenOptionsService"
+14:39:59	TRACE		Music thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuMusic/options/Default (loop).ogg" (precache: 0)
+14:39:59	TRACE		Main Thread	Players joined: P1, P2
+14:39:59	TRACE		Main Thread	ScreenSelect::~ScreenSelect()
+14:39:59	TRACE		Main Thread	Performing texture garbage collection.
+14:39:59	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screenselectstyle change.ogg"
+14:39:59	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screenselectstyle in.ogg"
+14:39:59	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screenselectstyle out.ogg"
+14:39:59	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screentitlemenu change.ogg"
+14:39:59	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/title_in.ogg"
+14:39:59	TRACE		Main Thread	Zeroing this update.  Was 0.056860
+14:39:59	TRACE		Music thread	Sound "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuMusic/options/Default (loop).ogg" has a start time 0.000503 seconds in the past
+14:40:00	TRACE		Main Thread	60.65 FPS, 61.00 av FPS, 1978 VPF, 226 MB, OpenGL
+14:40:01	TRACE		Main Thread	60.19 FPS, 61.00 av FPS, 2002 VPF, 226 MB, OpenGL
+14:40:01	TRACE		Main Thread	ScreenOptions::~ScreenOptions()
+14:40:01	TRACE		Main Thread	Performing texture garbage collection.
+14:40:01	TRACE		Main Thread	Loading screen: "ScreenReloadSongs"
+14:40:01	TRACE		Main Thread	Loaded "ScreenReloadSongs" ("ScreenReloadSongs") in 0.000141
+14:40:01	TRACE		Main Thread	Loading screen background "/Appearance/Themes/_fallback/BGAnimations/_blank.lua"
+14:40:01	TRACE		Main Thread	PushScreen: "ScreenReloadSongs"
+14:40:01	TRACE		Main Thread	Players joined: P1, P2
+14:40:01	TRACE		Main Thread	Shutting down FFMPEG thread ...
+14:40:01	TRACE		Main Thread	Performing texture garbage collection.
+14:40:01	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/common back.ogg"
+14:40:01	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screenoptions change.ogg"
+14:40:01	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screenoptions next.mp3"
+14:40:01	TRACE		Main Thread	Zeroing this update.  Was 0.012487
+14:40:01	TRACE		Main Thread	SaveStatsXmlToDir: /Save/MachineProfile/
+14:40:01	TRACE		Main Thread	X:\Development\ProjectOutFox-LTS4\ProjectOutfox\src\RageFileDriverDirect.cpp:161: remove 'C:/Games/OutFox 0.4.19 LTS Win64/Save/MachineProfile/Edits/newdir.temp.newdir'
+14:40:01	TRACE		Main Thread	X:\Development\ProjectOutFox-LTS4\ProjectOutfox\src\RageFileDriverDirect.cpp:161: remove 'C:/Games/OutFox 0.4.19 LTS Win64/Save/MachineProfile/EditCourses/newdir.temp.newdir'
+14:40:01	TRACE		Main Thread	X:\Development\ProjectOutFox-LTS4\ProjectOutfox\src\RageFileDriverDirect.cpp:161: remove 'C:/Games/OutFox 0.4.19 LTS Win64/Save/MachineProfile/Screenshots/newdir.temp.newdir'
+14:40:01	TRACE		Main Thread	X:\Development\ProjectOutFox-LTS4\ProjectOutfox\src\RageFileDriverDirect.cpp:161: remove 'C:/Games/OutFox 0.4.19 LTS Win64/Save/MachineProfile/Rivals/newdir.temp.newdir'
+14:40:01	TRACE		Main Thread	Attempting to load 53 songs from "Songs/3rd Mix"
+14:40:01	TRACE		Main Thread	Loaded 53 songs from "Songs/3rd Mix"
+14:40:01	TRACE		Main Thread	Attempting to load 69 songs from "Songs/DDR Extreme"
+14:40:01	TRACE		Main Thread	Loaded 69 songs from "Songs/DDR Extreme"
+14:40:01	TRACE		Main Thread	Attempting to load 95 songs from "Songs/DDRMAX 1 _ 2"
+14:40:01	TRACE		Main Thread	Loaded 95 songs from "Songs/DDRMAX 1 _ 2"
+14:40:01	TRACE		Main Thread	Attempting to load 1 songs from "Songs/Peylist"
+14:40:01	TRACE		Main Thread	Loaded 1 songs from "Songs/Peylist"
+14:40:01	TRACE		Main Thread	Attempting to load 3 songs from "Songs/Tiktok"
+14:40:01	TRACE		Main Thread	Loaded 3 songs from "Songs/Tiktok"
+14:40:01	TRACE		Main Thread	Attempting to load 1 songs from "Songs/Uyen Mix"
+14:40:01	TRACE		Main Thread	Loaded 1 songs from "Songs/Uyen Mix"
+14:40:01	TRACE		Main Thread	Attempting to load 33 songs from "Songs/Ying Special"
+14:40:01	TRACE		Main Thread	Loaded 33 songs from "Songs/Ying Special"
+14:40:01	TRACE		Main Thread	Found 255 songs in 0.550592 seconds.
+14:40:01	TRACE		Main Thread	Loading courses.
+14:40:01	TRACE		Main Thread	CourseLoaderCRS::LoadFromCRSFile("/Courses/Default/ChallengingRandom5.crs") ("Cache/Courses/Courses_Default_ChallengingRandom5.crs.ofcache")
+14:40:01	TRACE		Main Thread	CourseLoaderCRS::LoadFromCRSFile("/Courses/Default/Jupiter.crs")
+14:40:01	TRACE		Main Thread	CourseLoaderCRS::LoadFromCRSFile("/Courses/Default/MostPlayed_01-04.crs") ("Cache/Courses/Courses_Default_MostPlayed_01-04.crs.ofcache")
+14:40:01	TRACE		Main Thread	CourseLoaderCRS::LoadFromCRSFile("/Courses/Default/MostPlayed_05-08.crs") ("Cache/Courses/Courses_Default_MostPlayed_05-08.crs.ofcache")
+14:40:01	TRACE		Main Thread	CourseLoaderCRS::LoadFromCRSFile("/Courses/Default/MostPlayed_09-12.crs") ("Cache/Courses/Courses_Default_MostPlayed_09-12.crs.ofcache")
+14:40:01	TRACE		Main Thread	CourseLoaderCRS::LoadFromCRSFile("/Courses/Default/MostPlayed_13-16.crs") ("Cache/Courses/Courses_Default_MostPlayed_13-16.crs.ofcache")
+14:40:01	TRACE		Main Thread	Profile::LoadAllFromDir( /Save/MachineProfile/ )
+14:40:01	TRACE		Main Thread	Loading /Save/MachineProfile/Stats.xml
+14:40:01	TRACE		Main Thread	Done.
+14:40:01	TRACE		Main Thread	UnlockManager::Load()
+14:40:01	TRACE		Main Thread	Performing texture garbage collection.
+14:40:01	TRACE		Main Thread	Loading screen: "ScreenSelectMode"
+14:40:01	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:40:01	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:40:01	TRACE		Main Thread	Players joined: none
+14:40:01	TRACE		Main Thread	Players joined: none
+14:40:01	TRACE		Main Thread	Game Seed set to 1307583987
+14:40:01	TRACE		Main Thread	Stage Seed set to 951787634
+14:40:01	TRACE		Main Thread	Screen "ScreenSelectMode" preparing "ScreenSelectStyle"
+14:40:01	TRACE		Main Thread	Loading screen: "ScreenSelectStyle"
+14:40:01	TRACE		Main Thread	Screen "ScreenSelectStyle" preparing "ScreenCaution"
+14:40:01	TRACE		Main Thread	Loading screen: "ScreenCaution"
+14:40:01	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:40:01	TRACE		Main Thread	Loaded "ScreenCaution" ("ScreenSplash") in 0.118389
+14:40:01	TRACE		Main Thread	Loading screen background "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements background/default.lua"
+14:40:01	TRACE		Main Thread	FFMPEG Decoder: Movie /Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements background/Default/background.mp4 has handler 'MPEG Part 4', type 'mp4'
+14:40:01	TRACE		Main Thread	Initializing driver: MiniFFMpeg
+14:40:01	TRACE		Main Thread	FFMPEG Decoder: AVFormat Error, Couldnt Open: C:/Games/OutFox 0.4.19 LTS Win64/Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements background/Default/background.mp4.
+14:40:01	TRACE		Main Thread	FFMPEG Decoder: Trying AVIO fallback.
+14:40:01	TRACE		Main Thread	FFMPEG Decoder: Opening codec h264
+14:40:01	TRACE		Main Thread	FFMPEG Decoder: There are 4 threads available
+14:40:01	TRACE		Main Thread	Created movie texture "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenWithMenuElements background/Default/background.mp4" with driver "MiniFFMpeg"
+14:40:01	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:40:02	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenSelectStyle in.ogg" (precache: 1)
+14:40:02	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenSelectStyle out.ogg" (precache: 1)
+14:40:02	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenSelectStyle change.ogg" (precache: 1)
+14:40:02	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Common start.ogg" (precache: 0)
+14:40:02	TRACE		Main Thread	Loaded "ScreenSelectStyle" ("ScreenSelectMaster") in 0.341648
+14:40:02	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:40:02	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Title_In.ogg" (precache: 1)
+14:40:02	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenTitleMenu change.ogg" (precache: 1)
+14:40:02	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Common start.ogg" (precache: 0)
+14:40:02	TRACE		Main Thread	Loaded "ScreenSelectMode" ("ScreenTitleMenu") in 0.424954
+14:40:02	TRACE		Main Thread	PushScreen: "ScreenSelectMode"
+14:40:02	TRACE		Music thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_silent.ogg" (precache: 0)
+14:40:02	TRACE		Main Thread	Players joined: none
+14:40:02	TRACE		Music thread	Sound "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_silent.ogg" has a start time 0.000001 seconds in the past
+14:40:02	TRACE		Main Thread	Performing texture garbage collection.
+14:40:02	TRACE		Main Thread	Zeroing this update.  Was 0.426815
+14:40:02	TRACE		Main Thread	Players joined: P1
+14:40:02	TRACE		Main Thread	Players joined: P1
+14:40:03	TRACE		Main Thread	58.13 FPS, 59.00 av FPS, 562 VPF, 226 MB, OpenGL
+14:40:03	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:40:03	TRACE		Main Thread	Attempted to load a non-existing mod ' Speed' for the Player. Ignoring.
+14:40:03	TRACE		Main Thread	Players joined: P1
+14:40:04	TRACE		Main Thread	59.98 FPS, 59.50 av FPS, 649 VPF, 227 MB, OpenGL
+14:40:04	TRACE		Main Thread	ScreenSelect::~ScreenSelect()
+14:40:04	TRACE		Main Thread	Performing texture garbage collection.
+14:40:04	TRACE		Main Thread	Loading screen: "ScreenDDRNameEntry"
+14:40:04	TRACE		Main Thread	Loaded "ScreenDDRNameEntry" ("ScreenWithMenuElements") in 0.439164
+14:40:04	TRACE		Main Thread	PushScreen: "ScreenDDRNameEntry"
+14:40:04	TRACE		Music thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuMusic/profile/Default (loop).ogg" (precache: 0)
+14:40:04	TRACE		Main Thread	Players joined: P1
+14:40:04	TRACE		Main Thread	ScreenSelect::~ScreenSelect()
+14:40:04	TRACE		Main Thread	Performing texture garbage collection.
+14:40:04	TRACE		Music thread	Sound "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuMusic/profile/Default (loop).ogg" has a start time 0.000622 seconds in the past
+14:40:04	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/common start.ogg"
+14:40:04	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screenselectstyle change.ogg"
+14:40:04	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screenselectstyle in.ogg"
+14:40:04	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screenselectstyle out.ogg"
+14:40:04	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screentitlemenu change.ogg"
+14:40:04	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/title_in.ogg"
+14:40:04	TRACE		Main Thread	Zeroing this update.  Was 0.451596
+14:40:05	TRACE		Music thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenOptions change.ogg" (precache: 0)
+14:40:05	TRACE		Main Thread	58.54 FPS, 59.00 av FPS, 488 VPF, 234 MB, OpenGL
+14:40:06	TRACE		Music thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Common start.ogg" (precache: 0)
+14:40:06	TRACE		Main Thread	58.99 FPS, 59.00 av FPS, 963 VPF, 234 MB, OpenGL
+14:40:07	TRACE		Main Thread	Performing texture garbage collection.
+14:40:07	TRACE		Main Thread	Loading screen: "ScreenSelectStyle"
+14:40:07	TRACE		Main Thread	Screen "ScreenSelectStyle" preparing "ScreenCaution"
+14:40:07	TRACE		Main Thread	Loading screen: "ScreenCaution"
+14:40:07	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:40:07	TRACE		Main Thread	Loaded "ScreenCaution" ("ScreenSplash") in 0.029424
+14:40:07	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:40:07	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenSelectStyle in.ogg" (precache: 1)
+14:40:07	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenSelectStyle out.ogg" (precache: 1)
+14:40:07	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenSelectStyle change.ogg" (precache: 1)
+14:40:07	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Common start.ogg" (precache: 0)
+14:40:07	TRACE		Main Thread	Loaded "ScreenSelectStyle" ("ScreenSelectMaster") in 0.144260
+14:40:07	TRACE		Main Thread	PushScreen: "ScreenSelectStyle"
+14:40:07	TRACE		Music thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuMusic/common/Default (loop).ogg" (precache: 0)
+14:40:07	TRACE		Main Thread	Players joined: P1
+14:40:07	TRACE		Main Thread	Zeroing this update.  Was 0.174136
+14:40:07	TRACE		Music thread	Sound "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuMusic/common/Default (loop).ogg" has a start time 0.000515 seconds in the past
+14:40:08	TRACE		Main Thread	52.32 FPS, 53.00 av FPS, 614 VPF, 235 MB, OpenGL
+14:40:09	TRACE		Main Thread	58.98 FPS, 56.00 av FPS, 650 VPF, 235 MB, OpenGL
+14:40:10	TRACE		Main Thread	Players joined: P1
+14:40:10	TRACE		Main Thread	58.96 FPS, 57.00 av FPS, 451 VPF, 235 MB, OpenGL
+14:40:11	TRACE		Main Thread	59.98 FPS, 57.75 av FPS, 308 VPF, 235 MB, OpenGL
+14:40:12	TRACE		Main Thread	ScreenSelect::~ScreenSelect()
+14:40:12	TRACE		Main Thread	Performing texture garbage collection.
+14:40:12	TRACE		Main Thread	Loading screen: "ScreenProfileLoad"
+14:40:12	TRACE		Main Thread	Loaded "ScreenProfileLoad" ("ScreenProfileLoad") in 0.007152
+14:40:12	TRACE		Main Thread	PushScreen: "ScreenProfileLoad"
+14:40:12	TRACE		Main Thread	Players joined: P1
+14:40:12	TRACE		Main Thread	Performing texture garbage collection.
+14:40:12	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screenselectstyle change.ogg"
+14:40:12	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screenselectstyle in.ogg"
+14:40:12	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/screenselectstyle out.ogg"
+14:40:12	TRACE		Main Thread	Zeroing this update.  Was 0.015705
+14:40:13	TRACE		Main Thread	59.46 FPS, 60.00 av FPS, 162 VPF, 235 MB, OpenGL
+14:40:13	TRACE		Main Thread	Performing texture garbage collection.
+14:40:13	TRACE		Main Thread	Loading screen: "ScreenCaution"
+14:40:13	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:40:13	TRACE		Main Thread	Loaded "ScreenCaution" ("ScreenSplash") in 0.028668
+14:40:13	TRACE		Main Thread	PushScreen: "ScreenCaution"
+14:40:13	TRACE		Main Thread	Players joined: P1
+14:40:13	TRACE		Music thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_silent.ogg" (precache: 0)
+14:40:13	TRACE		Music thread	Sound "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_silent.ogg" has a start time 0.000003 seconds in the past
+14:40:13	TRACE		Main Thread	Zeroing this update.  Was 0.036157
+14:40:13	TRACE		Main Thread	Loading screen: "ScreenSelectMusic"
+14:40:13	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:40:14	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Codebox/o-change.wav" (precache: 1)
+14:40:14	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Codebox/o-open.wav" (precache: 1)
+14:40:14	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Codebox/o-close.wav" (precache: 1)
+14:40:15	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MWChange/Default_MWC.ogg" (precache: 1)
+14:40:15	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_swoosh out.ogg" (precache: 1)
+14:40:15	TRACE		Main Thread	WheelBase::Load('MusicWheelWheel')
+14:40:15	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MWChange/Default_MWC.ogg" (precache: 1)
+14:40:15	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MusicWheel locked.ogg" (precache: 1)
+14:40:15	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MusicWheel sort.ogg" (precache: 0)
+14:40:15	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MusicWheel expand.ogg" (precache: 1)
+14:40:15	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MusicWheel expand.ogg" (precache: 1)
+14:40:15	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Common start.ogg" (precache: 0)
+14:40:15	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenSelectMusic difficulty harder.ogg" (precache: 0)
+14:40:15	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenSelectMusic difficulty harder.ogg" (precache: 0)
+14:40:15	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_silent.ogg" (precache: 0)
+14:40:15	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/ScreenOptions next.mp3" (precache: 0)
+14:40:15	TRACE		Main Thread	Loaded "ScreenSelectMusic" ("ScreenSelectMusic") in 1.735996
+14:40:15	TRACE		Main Thread	Loading screen background "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenSelectMusic background/default.lua"
+14:40:15	TRACE		Main Thread	0.57 FPS, 1.00 av FPS, 176 VPF, 314 MB, OpenGL
+14:40:15	TRACE		Main Thread	Zeroing this update.  Was 1.750525
+14:40:16	TRACE		Main Thread	59.27 FPS, 30.50 av FPS, 179 VPF, 314 MB, OpenGL
+14:40:16	TRACE		Main Thread	Performing texture garbage collection.
+14:40:16	TRACE		Main Thread	PushScreen: "ScreenSelectMusic"
+14:40:16	TRACE		Main Thread	MusicWheel sorting took: 60.575352
+14:40:16	TRACE		Main Thread	MusicWheel sorting took: 60.580994
+14:40:16	TRACE		Main Thread	cache ""
+14:40:16	TRACE		Main Thread	LoadFromCachedBanner(/Songs/3rd Mix/20,NOVEMBER(D.D.R.Version)/20,NOVEMBER(D.D.R.Version).png)
+14:40:16	TRACE		Music thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/Music_In.ogg" (precache: 0)
+14:40:16	TRACE		Main Thread	Players joined: P1
+14:40:16	TRACE		Main Thread	Performing texture garbage collection.
+14:40:16	TRACE		Main Thread	Zeroing this update.  Was 0.076075
+14:40:16	TRACE		Music thread	RageSound: Load "/Songs/3rd Mix/20,NOVEMBER(D.D.R.Version)/20,NOVEMBER(D.D.R.Version).mp3" (precache: 0)
+14:40:16	TRACE		Music thread	Sound "/Songs/3rd Mix/20,NOVEMBER(D.D.R.Version)/20,NOVEMBER(D.D.R.Version).mp3" has a start time 0.000120 seconds in the past
+14:40:17	TRACE		Main Thread	LoadFromCachedBanner()
+14:40:17	TRACE		Main Thread	59.00 FPS, 60.00 av FPS, 3606 VPF, 315 MB, OpenGL
+14:40:17	TRACE		Main Thread	LoadFromCachedBanner()
+14:40:17	TRACE		Main Thread	LoadFromCachedBanner()
+14:40:18	TRACE		Main Thread	LoadFromCachedBanner()
+14:40:18	TRACE		Main Thread	LoadFromCachedBanner()
+14:40:18	TRACE		Main Thread	LoadFromCachedBanner()
+14:40:18	TRACE		Main Thread	56.97 FPS, 58.50 av FPS, 3348 VPF, 316 MB, OpenGL
+14:40:18	TRACE		Main Thread	LoadFromCachedBanner()
+14:40:18	TRACE		Main Thread	LoadFromCachedBanner()
+14:40:19	TRACE		Main Thread	LoadFromCachedBanner()
+14:40:19	TRACE		Main Thread	MusicWheel::Select()
+14:40:19	TRACE		Main Thread	WheelBase::Select()
+14:40:19	TRACE		Music thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuMusic/common/Default (loop).ogg" (precache: 0)
+14:40:19	TRACE		Music thread	Sound "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuMusic/common/Default (loop).ogg" has a start time 0.000577 seconds in the past
+14:40:19	TRACE		Main Thread	57.98 FPS, 58.33 av FPS, 3241 VPF, 316 MB, OpenGL
+14:40:19	TRACE		Main Thread	cache ""
+14:40:19	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Alone/Alone.png)
+14:40:20	TRACE		Main Thread	cache ""
+14:40:20	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Bang Bang Bang/[ZIvision Song Contest] - Bang Bang Bang.png)
+14:40:20	TRACE		Main Thread	cache ""
+14:40:20	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Fifty Fifty - Barbie Dreams (feat. Kaliii)/Barbie Dreams.jpg)
+14:40:20	TRACE		Main Thread	cache ""
+14:40:20	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Bubble Pop/Bubble Pop.PNG)
+14:40:20	TRACE		Main Thread	cache ""
+14:40:20	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/CAN'T NOBODY/CAN'T NOBODY.png)
+14:40:20	TRACE		Main Thread	cache ""
+14:40:20	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Fifty Fifty - Cupid/CupidBanner.jpg)
+14:40:20	TRACE		Main Thread	cache ""
+14:40:20	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Ditto/AV.avi)
+14:40:20	TRACE		Main Thread	FFMPEG Decoder: Movie /Songs/Ying Special/Ditto/AV.avi has handler 'Audio Video Interleave', type 'avi'
+14:40:20	TRACE		Main Thread	Initializing driver: MiniFFMpeg
+14:40:20	TRACE		Main Thread	FFMPEG Decoder: AVFormat Error, Couldnt Open: C:/Games/OutFox 0.4.19 LTS Win64/Songs/Ying Special/Ditto/AV.avi.
+14:40:20	TRACE		Main Thread	FFMPEG Decoder: Trying AVIO fallback.
+14:40:20	TRACE		Main Thread	FFMPEG Decoder: Opening codec h264
+14:40:20	TRACE		Main Thread	FFMPEG Decoder: There are 4 threads available
+14:40:20	TRACE		Main Thread	Created movie texture "/Songs/Ying Special/Ditto/AV.avi" with driver "MiniFFMpeg"
+14:40:20	TRACE		Main Thread	cache "/Songs/Ying Special/Dragonfly/D_M_GRIM_CDTITLE.PNG"
+14:40:20	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Dragonfly/Dragonfly-bn.PNG)
+14:40:20	TRACE		Main Thread	Shutting down FFMPEG thread ...
+14:40:20	TRACE		Main Thread	cache "/Songs/Ying Special/Energetic/cdtitle.png"
+14:40:20	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Energetic/Energetic.png)
+14:40:20	TRACE		Main Thread	40.80 FPS, 54.25 av FPS, 3250 VPF, 321 MB, OpenGL
+14:40:20	TRACE		Main Thread	cache ""
+14:40:20	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/FANCY/FANCY.png)
+14:40:20	TRACE		Main Thread	cache "/Songs/Ying Special/Fantastic Baby/cdtitle.png"
+14:40:20	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Fantastic Baby/FANTASTIC BABY.png)
+14:40:20	TRACE		Main Thread	cache ""
+14:40:20	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Feel Special/Feel Special.png)
+14:40:20	TRACE		Main Thread	cache "/Songs/Ying Special/Fire (K-pop)/cdtitle.png"
+14:40:20	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Fire (K-pop)/Fire (K-pop).png)
+14:40:20	TRACE		Main Thread	cache "/Songs/Ying Special/Gee/cdtitle.png"
+14:40:20	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Gee/Gee.png)
+14:40:20	TRACE		Main Thread	cache "/Songs/Ying Special/Gee/cdtitle.png"
+14:40:20	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Gee/Gee.png)
+14:40:21	TRACE		Music thread	RageSound: Load "/Songs/Ying Special/Gee/Gee.ogg" (precache: 0)
+14:40:21	TRACE		Music thread	Sound "/Songs/Ying Special/Gee/Gee.ogg" has a start time 0.001928 seconds in the past
+14:40:21	TRACE		Main Thread	cache "/Songs/Ying Special/Haru Haru/cdtitle.png"
+14:40:21	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Haru Haru/Haru Haru.png)
+14:40:21	TRACE		Main Thread	cache ""
+14:40:21	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/How You Like That/How You Like That.png)
+14:40:21	TRACE		Main Thread	38.55 FPS, 51.20 av FPS, 3635 VPF, 324 MB, OpenGL
+14:40:21	TRACE		Main Thread	cache "/Songs/Ying Special/I am the best/cdtitle.png"
+14:40:21	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/I am the best/I Am The Best.png)
+14:40:21	TRACE		Main Thread	cache ""
+14:40:21	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Ice Cream/Ice Cream.png)
+14:40:21	TRACE		Main Thread	cache ""
+14:40:21	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Kill This Love/Kill This Love.png)
+14:40:22	TRACE		Main Thread	cache "/Songs/Ying Special/Lies/cdtitle.png"
+14:40:22	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Lies/Lies.png)
+14:40:22	TRACE		Main Thread	cache ""
+14:40:22	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Lovesick Girls/Lovesick Girls.png)
+14:40:22	TRACE		Main Thread	cache ""
+14:40:22	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Lovesick Girls/Lovesick Girls.png)
+14:40:22	TRACE		Main Thread	cache ""
+14:40:22	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Money/money-bn.jpg)
+14:40:22	TRACE		Main Thread	cache "/Songs/Ying Special/Kara - Mr/Mister - CDTitle.jpg"
+14:40:22	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Kara - Mr/Mister - banner.jpg)
+14:40:22	TRACE		Main Thread	42.54 FPS, 49.83 av FPS, 3500 VPF, 326 MB, OpenGL
+14:40:22	TRACE		Main Thread	cache "/Songs/Ying Special/NoNoNo/cdtitle.png"
+14:40:22	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/NoNoNo/NoNoNo.png)
+14:40:22	TRACE		Main Thread	cache ""
+14:40:22	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/OMG/OMG_bn.png)
+14:40:23	TRACE		Music thread	RageSound: Load "/Songs/Ying Special/OMG/OMG_audio.ogg" (precache: 0)
+14:40:23	TRACE		Music thread	Sound "/Songs/Ying Special/OMG/OMG_audio.ogg" has a start time 0.001630 seconds in the past
+14:40:23	TRACE		Main Thread	cache "/Songs/Ying Special/NoNoNo/cdtitle.png"
+14:40:23	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/NoNoNo/NoNoNo.png)
+14:40:23	TRACE		Main Thread	48.54 FPS, 49.71 av FPS, 3587 VPF, 327 MB, OpenGL
+14:40:23	TRACE		Main Thread	cache "/Songs/Ying Special/Kara - Mr/Mister - CDTitle.jpg"
+14:40:23	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Kara - Mr/Mister - banner.jpg)
+14:40:23	TRACE		Music thread	RageSound: Load "/Songs/Ying Special/Kara - Mr/Kara - Mr.-[AudioTrimmer.com].ogg" (precache: 0)
+14:40:23	TRACE		Music thread	Sound "/Songs/Ying Special/Kara - Mr/Kara - Mr.-[AudioTrimmer.com].ogg" has a start time 0.000820 seconds in the past
+14:40:24	TRACE		Main Thread	cache ""
+14:40:24	TRACE		Main Thread	LoadFromCachedBanner(/Songs/Ying Special/Money/money-bn.jpg)
+14:40:24	TRACE		Music thread	RageSound: Load "/Songs/Ying Special/Money/Money.ogg" (precache: 0)
+14:40:24	TRACE		Music thread	Sound "/Songs/Ying Special/Money/Money.ogg" has a start time 0.001086 seconds in the past
+14:40:24	TRACE		Main Thread	52.60 FPS, 50.13 av FPS, 3560 VPF, 327 MB, OpenGL
+14:40:24	TRACE		Main Thread	ScreenSelectMusic::ChangeSteps( 0, 1 )
+14:40:25	TRACE		Main Thread	ScreenSelectMusic::ChangeSteps( 0, 1 )
+14:40:25	TRACE		Main Thread	ScreenSelectMusic::ChangeSteps( 0, 1 )
+14:40:25	TRACE		Main Thread	54.98 FPS, 50.67 av FPS, 3545 VPF, 328 MB, OpenGL
+14:40:25	TRACE		Main Thread	MusicWheel::Select()
+14:40:25	TRACE		Main Thread	WheelBase::Select()
+14:40:26	TRACE		Main Thread	45.21 FPS, 50.20 av FPS, 2139 VPF, 333 MB, OpenGL
+14:40:27	TRACE		Main Thread	58.91 FPS, 51.09 av FPS, 1033 VPF, 333 MB, OpenGL
+14:40:27	TRACE		Main Thread	ScreenSelectMusic::~ScreenSelectMusic()
+14:40:27	TRACE		Main Thread	Performing texture garbage collection.
+14:40:27	TRACE		Main Thread	Loading screen: "ScreenStageInformation"
+14:40:27	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MenuTimer tick.ogg" (precache: 0)
+14:40:28	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_Door.ogg" (precache: 1)
+14:40:28	TRACE		Main Thread	Loaded "ScreenStageInformation" ("ScreenSplash") in 0.343935
+14:40:28	TRACE		Main Thread	PushScreen: "ScreenStageInformation"
+14:40:28	TRACE		Music thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_silent.ogg" (precache: 0)
+14:40:28	TRACE		Main Thread	Players joined: P1
+14:40:28	TRACE		Music thread	Sound "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_silent.ogg" has a start time 0.000005 seconds in the past
+14:40:28	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/_swoosh out.ogg"
+14:40:28	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/codebox/o-change.wav"
+14:40:28	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/codebox/o-close.wav"
+14:40:28	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/codebox/o-open.wav"
+14:40:28	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/musicwheel expand.ogg"
+14:40:28	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/musicwheel locked.ogg"
+14:40:28	TRACE		Main Thread	Deleted old sound "/appearance/themes/xx--starlight--twopointzero-main/sounds/mwchange/default_mwc.ogg"
+14:40:28	TRACE		Main Thread	Zeroing this update.  Was 0.385634
+14:40:28	TRACE		Main Thread	Loading screen: "ScreenGameplay"
+14:40:28	TRACE		Main Thread	Reading '/Songs/Ying Special/Money/Preferences.ini' failed: No such file or directory
+14:40:28	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenGameplay overlay/FullCombo/Combo_Splash.ogg" (precache: 1)
+14:40:28	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/swoosh.ogg" (precache: 1)
+14:40:28	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_failed.ogg" (precache: 1)
+14:40:28	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_Door.ogg" (precache: 1)
+14:40:28	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/MusicWheel expand.ogg" (precache: 1)
+14:40:28	TRACE		Main Thread	MemoryCardManager::PauseMountingThread
+14:40:28	WARNING		Main Thread	Relative path "back", but path is unknown
+14:40:28	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/GameplayAssist clap.ogg" (precache: 1)
+14:40:28	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/GameplayAssist metronome measure.ogg" (precache: 1)
+14:40:28	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/GameplayAssist metronome beat.ogg" (precache: 1)
+14:40:28	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/player mine.mp3" (precache: 1)
+14:40:28	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/_fallback/Sounds/Player course attack launch.ogg" (precache: 1)
+14:40:28	TRACE		Main Thread	RageSound: Load "/Appearance/Themes/_fallback/Sounds/Player course attack ending.ogg" (precache: 1)
+14:40:29	TRACE		Main Thread	NoteField::CacheNoteSkin: cache midi-note
+14:40:29	WARNING		Main Thread	Relative path "_blank.png", but path is unknown
+14:40:29	WARNING		Main Thread	Background missing: -0.089
+14:40:29	TRACE		Main Thread	Loaded "ScreenGameplay" ("ScreenGameplayNormal") in 1.194374
+14:40:29	TRACE		Main Thread	Loading screen background "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/BGAnimations/ScreenGameplay background.lua"
+14:40:29	TRACE		Main Thread	Zeroing this update.  Was 1.214782
+14:40:29	TRACE		Music thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_Cheer.ogg" (precache: 0)
+14:40:30	TRACE		Main Thread	59.20 FPS, 60.00 av FPS, 371 VPF, 368 MB, OpenGL
+14:40:31	TRACE		Main Thread	60.00 FPS, 60.00 av FPS, 396 VPF, 330 MB, OpenGL
+14:40:32	TRACE		Main Thread	58.97 FPS, 59.67 av FPS, 398 VPF, 330 MB, OpenGL
+14:40:33	TRACE		Main Thread	57.95 FPS, 59.25 av FPS, 392 VPF, 330 MB, OpenGL
+14:40:34	TRACE		Main Thread	59.94 FPS, 59.40 av FPS, 405 VPF, 330 MB, OpenGL
+14:40:34	TRACE		Main Thread	Performing texture garbage collection.
+14:40:34	TRACE		Main Thread	PushScreen: "ScreenGameplay"
+14:40:34	TRACE		Music thread	RageSound: Load "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_silent.ogg" (precache: 0)
+14:40:34	TRACE		Main Thread	Players joined: P1
+14:40:34	TRACE		Main Thread	Performing texture garbage collection.
+14:40:34	TRACE		Main Thread	HandleScreenMessage(SM_None)
+14:40:34	TRACE		Main Thread	Zeroing this update.  Was 0.046875
+14:40:34	TRACE		Main Thread	HandleScreenMessage(SM_GainFocus)
+14:40:34	TRACE		Music thread	Sound "/Appearance/Themes/XX--STARLiGHT--twopointzero-main/Sounds/_silent.ogg" has a start time 0.000003 seconds in the past
+14:40:34	TRACE		Main Thread	OutFox Engine: Updating Activity Status: Succeeded
+14:40:34	TRACE		Main Thread	OutFox Engine: Updating Activity Status: Succeeded
+14:40:35	TRACE		Main Thread	61.49 FPS, 62.00 av FPS, 444 VPF, 331 MB, OpenGL
+14:40:36	TRACE		Main Thread	59.90 FPS, 61.00 av FPS, 522 VPF, 331 MB, OpenGL
+14:40:37	TRACE		Main Thread	HandleScreenMessage(SM_DoneFadingIn)
+14:40:37	TRACE		Main Thread	HandleScreenMessage(SM_PlayGo)
+14:40:37	TRACE		Main Thread	HandleScreenMessage(SM_None)
+14:40:37	TRACE		Main Thread	60.00 FPS, 61.00 av FPS, 538 VPF, 330 MB, OpenGL
+14:40:38	TRACE		Main Thread	60.00 FPS, 61.00 av FPS, 558 VPF, 330 MB, OpenGL
+14:40:39	TRACE		Main Thread	60.03 FPS, 61.00 av FPS, 596 VPF, 330 MB, OpenGL
+14:40:40	TRACE		Main Thread	59.93 FPS, 60.83 av FPS, 616 VPF, 330 MB, OpenGL
+14:40:41	TRACE		Main Thread	60.03 FPS, 60.86 av FPS, 635 VPF, 330 MB, OpenGL
+14:40:42	TRACE		Main Thread	59.94 FPS, 60.75 av FPS, 674 VPF, 330 MB, OpenGL
+14:40:43	TRACE		Main Thread	59.97 FPS, 60.67 av FPS, 712 VPF, 330 MB, OpenGL
+14:40:44	TRACE		Main Thread	59.94 FPS, 60.60 av FPS, 734 VPF, 330 MB, OpenGL
+14:40:45	TRACE		Main Thread	59.90 FPS, 60.55 av FPS, 757 VPF, 330 MB, OpenGL
+14:40:46	TRACE		Main Thread	60.03 FPS, 60.58 av FPS, 765 VPF, 330 MB, OpenGL
+14:40:47	TRACE		Main Thread	59.96 FPS, 60.54 av FPS, 765 VPF, 330 MB, OpenGL
+14:40:48	TRACE		Main Thread	59.98 FPS, 60.50 av FPS, 757 VPF, 330 MB, OpenGL
+14:40:49	TRACE		Main Thread	59.98 FPS, 60.47 av FPS, 752 VPF, 330 MB, OpenGL
+14:40:50	TRACE		Main Thread	59.99 FPS, 60.44 av FPS, 730 VPF, 330 MB, OpenGL
+14:40:51	TRACE		Main Thread	59.88 FPS, 60.41 av FPS, 705 VPF, 330 MB, OpenGL
+14:40:52	TRACE		Main Thread	59.99 FPS, 60.39 av FPS, 717 VPF, 330 MB, OpenGL
+14:40:53	TRACE		Main Thread	59.98 FPS, 60.37 av FPS, 702 VPF, 330 MB, OpenGL
+14:40:54	TRACE		Main Thread	60.06 FPS, 60.40 av FPS, 704 VPF, 330 MB, OpenGL
+14:40:55	TRACE		Main Thread	59.89 FPS, 60.38 av FPS, 705 VPF, 330 MB, OpenGL
+14:40:56	TRACE		Main Thread	60.03 FPS, 60.41 av FPS, 704 VPF, 330 MB, OpenGL
+14:40:57	TRACE		Main Thread	60.01 FPS, 60.43 av FPS, 695 VPF, 330 MB, OpenGL
+14:40:58	TRACE		Main Thread	59.87 FPS, 60.42 av FPS, 670 VPF, 330 MB, OpenGL
+14:40:59	TRACE		Main Thread	60.00 FPS, 60.44 av FPS, 647 VPF, 330 MB, OpenGL
+14:41:00	TRACE		Main Thread	59.99 FPS, 60.42 av FPS, 618 VPF, 330 MB, OpenGL
+14:41:01	TRACE		Main Thread	60.02 FPS, 60.44 av FPS, 619 VPF, 330 MB, OpenGL
+14:41:02	TRACE		Main Thread	OutFox Engine (SDL Debug) - Window is shutting down
+14:41:02	TRACE		Main Thread	SaveStatsXmlToDir: /Save/MachineProfile/
+14:41:02	TRACE		Main Thread	X:\Development\ProjectOutFox-LTS4\ProjectOutfox\src\RageFileDriverDirect.cpp:161: remove 'C:/Games/OutFox 0.4.19 LTS Win64/Save/MachineProfile/Edits/newdir.temp.newdir'
+14:41:02	TRACE		Main Thread	X:\Development\ProjectOutFox-LTS4\ProjectOutfox\src\RageFileDriverDirect.cpp:161: remove 'C:/Games/OutFox 0.4.19 LTS Win64/Save/MachineProfile/EditCourses/newdir.temp.newdir'
+14:41:02	TRACE		Main Thread	X:\Development\ProjectOutFox-LTS4\ProjectOutfox\src\RageFileDriverDirect.cpp:161: remove 'C:/Games/OutFox 0.4.19 LTS Win64/Save/MachineProfile/Screenshots/newdir.temp.newdir'
+14:41:02	TRACE		Main Thread	X:\Development\ProjectOutFox-LTS4\ProjectOutfox\src\RageFileDriverDirect.cpp:161: remove 'C:/Games/OutFox 0.4.19 LTS Win64/Save/MachineProfile/Rivals/newdir.temp.newdir'
+14:41:02	TRACE		Main Thread	Shutting down mixer thread ...
+14:41:02	TRACE		Main Thread	Mixer thread shut down.
+14:41:02	TRACE		Main Thread	Shutting down decode thread ...
+14:41:02	TRACE		Main Thread	Decode thread shut down.
+14:41:02	TRACE		Main Thread	ScreenManager::~ScreenManager()
+14:41:02	TRACE		Main Thread	ScreenGameplay::~ScreenGameplay()
+14:41:02	TRACE		Main Thread	MemoryCardManager::UnPauseMountingThread
+14:41:02	TRACE		Main Thread	Shutting down FFMPEG thread ...
+14:41:02	TRACE		Main Thread	Performing texture garbage collection.
+14:41:02	TRACE		Main Thread	OutFox Engine: Shutting down Win32_Legacy thread ...
+14:41:02	TRACE		Main Thread	OutFox Engine: Win32_Legacy thread shut down.
+14:41:02	TRACE		Main Thread	Shutting down music start thread ...
+14:41:02	TRACE		Main Thread	Music start thread shut down.
+14:41:02	TRACE		Main Thread	FoxClock: Game uptime was 1 minutes, 47 seconds
+FileSink shutdown at: 14:41:02 926664

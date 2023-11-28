@@ -1,0 +1,16 @@
+created log at: Sat Nov 04 11:27:02 2023
+[Time]		[Level]		[Thread]	[Log]
+11:27:04	TRACE		Main Thread	Loading /Appearance/Themes/_fallback/BGAnimations/ScreenSystemLayer aux.lua, type FileType_Lua
+11:27:07	TRACE		Main Thread	Loading /Appearance/Themes/default/BGAnimations/ScreenWithMenuElements decorations/default.lua, type FileType_Lua
+11:27:07	TRACE		Main Thread	Loading /Appearance/Themes/default/BGAnimations/_Arcade decorations/default.lua, type FileType_Lua
+11:27:07	TRACE		Main Thread	Loading /Appearance/Themes/default/BGAnimations/_frame 3x1/default.lua, type FileType_Lua
+11:27:07	TRACE		Main Thread	Loading /Appearance/Themes/default/BGAnimations/_frame files 3x1/rounded fill 3x1.png, type FileType_Bitmap
+11:27:07	TRACE		Main Thread	Loading /Appearance/Themes/default/Sounds/Common Cancel.ogg, type FileType_Sound
+11:27:09	TRACE		Main Thread	Loading /Appearance/Themes/default/Graphics/ScreenTitleMenu logo/default.lua, type FileType_Lua
+11:27:09	TRACE		Main Thread	Loading /Appearance/Themes/default/Graphics/ScreenTitleMenu logo/_mascot.png, type FileType_Bitmap
+11:27:09	TRACE		Main Thread	Loading /Appearance/Themes/default/Graphics/ScreenTitleMenu VersionInfo.lua, type FileType_Lua
+11:27:09	TRACE		Main Thread	Loading /Appearance/Themes/default/Graphics/ScreenTitleMenu LifeDifficulty.lua, type FileType_Lua
+11:27:09	TRACE		Main Thread	Loading /Appearance/Themes/default/Graphics/ScreenTitleMenu TimingDifficulty.lua, type FileType_Lua
+11:27:09	TRACE		Main Thread	Loading /Appearance/Themes/default/Graphics/ScreenTitleMenu NumSongs.lua, type FileType_Lua
+11:27:10	TRACE		Main Thread	Loading /Appearance/Themes/default/Sounds/Common Cancel.ogg, type FileType_Sound
+FileSink shutdown at: 11:27:13 619613
