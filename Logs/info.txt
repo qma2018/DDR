@@ -1,1 +1,0 @@
-This file is added for GrooveStats backwards compatibility - Squirrel
